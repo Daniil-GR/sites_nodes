@@ -1,0 +1,37 @@
+{
+  "id": "stayroute-nyc",
+  "name": "Stayroute NYC — City Guide",
+  "kind": "static-city-guide",
+  "location": {
+    "city": "New York City",
+    "country": "United States",
+    "timezone": "America/New_York",
+    "center": [
+      40.7128,
+      -74.006
+    ]
+  },
+  "language": "en",
+  "snapshotDate": "2026-11-11",
+  "entrypoint": "index.html",
+  "stack": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Leaflet 1.9.4",
+    "OpenStreetMap"
+  ],
+  "features": [
+    "Explore filters and map",
+    "18 curated places",
+    "7 pedestrian walks",
+    "local GeoJSON",
+    "saved places",
+    "time-of-day scenes",
+    "journal"
+  ],
+  "backendRequired": false,
+  "paidApiKeyRequired": false,
+  "runtimeManifest": "reference-manifest.json",
+  "adaptationGuide": "ADAPTATION.md"
+}

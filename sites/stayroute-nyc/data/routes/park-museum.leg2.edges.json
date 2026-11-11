@@ -1,0 +1,196 @@
+{
+  "units": "kilometers",
+  "edges": [
+    {
+      "way_id": 37182194,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 1,
+      "begin_shape_index": 0,
+      "road_class": "service_other",
+      "length": 0.004,
+      "source_percent_along": 0.941
+    },
+    {
+      "way_id": 37182194,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 10,
+      "begin_shape_index": 1,
+      "road_class": "service_other",
+      "length": 0.084
+    },
+    {
+      "way_id": 104909763,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 13,
+      "begin_shape_index": 10,
+      "road_class": "service_other",
+      "length": 0.027
+    },
+    {
+      "way_id": 104909763,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 21,
+      "begin_shape_index": 13,
+      "road_class": "service_other",
+      "length": 0.068
+    },
+    {
+      "way_id": 39991944,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 27,
+      "begin_shape_index": 21,
+      "road_class": "service_other",
+      "length": 0.038
+    },
+    {
+      "way_id": 39991944,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 28,
+      "begin_shape_index": 27,
+      "road_class": "service_other",
+      "length": 0.004
+    },
+    {
+      "way_id": 1081021574,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 29,
+      "begin_shape_index": 28,
+      "road_class": "service_other",
+      "length": 0.007
+    },
+    {
+      "way_id": 1081021574,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 30,
+      "begin_shape_index": 29,
+      "road_class": "service_other",
+      "length": 0.008
+    },
+    {
+      "way_id": 1081021575,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 31,
+      "begin_shape_index": 30,
+      "road_class": "service_other",
+      "length": 0.01
+    },
+    {
+      "way_id": 739699911,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 52,
+      "begin_shape_index": 31,
+      "road_class": "service_other",
+      "length": 0.123
+    },
+    {
+      "way_id": 739699911,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 55,
+      "begin_shape_index": 52,
+      "road_class": "service_other",
+      "length": 0.084
+    },
+    {
+      "way_id": 857870246,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 56,
+      "begin_shape_index": 55,
+      "road_class": "service_other",
+      "length": 0.006
+    },
+    {
+      "way_id": 332132158,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 58,
+      "begin_shape_index": 56,
+      "road_class": "service_other",
+      "length": 0.065,
+      "names": [
+        "Central Park Outer Loop"
+      ]
+    },
+    {
+      "way_id": 332132158,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 60,
+      "begin_shape_index": 58,
+      "road_class": "service_other",
+      "length": 0.014,
+      "names": [
+        "Central Park Outer Loop"
+      ]
+    },
+    {
+      "way_id": 332132158,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 62,
+      "begin_shape_index": 60,
+      "road_class": "service_other",
+      "length": 0.067,
+      "names": [
+        "Central Park Outer Loop"
+      ]
+    },
+    {
+      "way_id": 332132158,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 63,
+      "begin_shape_index": 62,
+      "road_class": "service_other",
+      "length": 0.004,
+      "target_percent_along": 0.369,
+      "names": [
+        "Central Park Outer Loop"
+      ]
+    }
+  ],
+  "alternate_paths": []
+}

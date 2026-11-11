@@ -1,0 +1,3 @@
+const fs=require('fs');global.window={};require('../js/data.js');const db=window.NYC_DATA;
+for(const r of db.routes){const p=JSON.parse(fs.readFileSync(`data/routes/${r.id}.geojson`)).properties;Object.assign(r,{distanceKm:p.distanceKm,walkingMinutes:p.walkingMinutes,visitMinutes:p.visitMinutes,duration:p.walkingMinutes+p.visitMinutes});if(r.id==='midtown-icons')r.note='Visits to the terminal, library and plaza are estimated separately from walking.';if(r.id==='park-museum')r.note='The total includes about two hours at The Met and relaxed park stops.';}
+fs.writeFileSync('js/data.js','/* Coordinates: OpenStreetMap. Route metrics: saved Valhalla pedestrian geometry. Sources in data/. */\nwindow.NYC_DATA = '+JSON.stringify(db,null,2)+';\n');

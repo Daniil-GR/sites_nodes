@@ -1,0 +1,305 @@
+[
+  {
+    "place": "nypl",
+    "source": "https://api.openstreetmap.org/api/0.6/map?bbox=-73.9836000,40.7523000,-73.9806000,40.7543000",
+    "checkedAt": "2026-11-11",
+    "entrances": [
+      {
+        "id": "1634448982",
+        "lat": 40.753014,
+        "lng": -73.9817686,
+        "tags": {
+          "access": "yes",
+          "entrance": "main",
+          "name": "New York Public Library",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "id": "1747664287",
+        "lat": 40.7523403,
+        "lng": -73.9823879,
+        "tags": {
+          "entrance": "main"
+        }
+      },
+      {
+        "id": "2032062868",
+        "lat": 40.7536644,
+        "lng": -73.9819051,
+        "tags": {
+          "entrance": "yes",
+          "wheelchair": "yes"
+        }
+      }
+    ]
+  },
+  {
+    "place": "moma-ps1",
+    "source": "https://api.openstreetmap.org/api/0.6/map?bbox=-73.9492000,40.7445000,-73.9462000,40.7465000",
+    "checkedAt": "2026-11-11",
+    "entrances": [
+      {
+        "id": "5602867355",
+        "lat": 40.7455907,
+        "lng": -73.9468872,
+        "tags": {
+          "entrance": "main"
+        }
+      }
+    ]
+  },
+  {
+    "place": "the-met",
+    "source": "https://api.openstreetmap.org/api/0.6/map?bbox=-73.9647000,40.7784000,-73.9617000,40.7804000",
+    "checkedAt": "2026-11-11",
+    "entrances": [
+      {
+        "id": "2724223853",
+        "lat": 40.7793201,
+        "lng": -73.9614505,
+        "tags": {
+          "addr:housenumber": "1016",
+          "addr:postcode": "10028",
+          "addr:street": "5th Avenue",
+          "entrance": "main"
+        }
+      },
+      {
+        "id": "5618087851",
+        "lat": 40.7793443,
+        "lng": -73.9624859,
+        "tags": {
+          "entrance": "main"
+        }
+      },
+      {
+        "id": "5618087853",
+        "lat": 40.7787269,
+        "lng": -73.9629788,
+        "tags": {
+          "entrance": "yes"
+        }
+      },
+      {
+        "id": "5618087855",
+        "lat": 40.77912,
+        "lng": -73.9626495,
+        "tags": {
+          "entrance": "main"
+        }
+      }
+    ]
+  },
+  {
+    "place": "grand-central",
+    "source": "https://api.openstreetmap.org/api/0.6/map?bbox=-73.9788000,40.7515000,-73.9758000,40.7535000",
+    "checkedAt": "2026-11-11",
+    "entrances": [
+      {
+        "id": "2715512169",
+        "lat": 40.7525142,
+        "lng": -73.9782031,
+        "tags": {
+          "entrance": "yes",
+          "level": "1",
+          "name": "Grand Central 42nd Street / Vanderbilt Avenue entrance",
+          "network": "Metro-North Railroad",
+          "network:wikidata": "Q125908",
+          "railway": "subway_entrance",
+          "wheelchair": "limited"
+        }
+      },
+      {
+        "id": "3842775629",
+        "lat": 40.7530218,
+        "lng": -73.9776876,
+        "tags": {
+          "entrance": "yes",
+          "name": "Grand Central 43rd Street / Vanderbilt Avenue entrance",
+          "network": "Metro-North Railroad",
+          "network:wikidata": "Q125908",
+          "railway": "subway_entrance"
+        }
+      },
+      {
+        "id": "3842775637",
+        "lat": 40.7523009,
+        "lng": -73.9755823,
+        "tags": {
+          "automatic_door": "no",
+          "door": "hinged",
+          "entrance": "yes",
+          "name": "Grand Central 43rd Street / Lexington Avenue entrance",
+          "network": "Metro-North Railroad",
+          "network:wikidata": "Q125908",
+          "open": "no",
+          "railway": "subway_entrance"
+        }
+      },
+      {
+        "id": "3842788780",
+        "lat": 40.7522481,
+        "lng": -73.9775815,
+        "tags": {
+          "entrance": "yes",
+          "level": "0",
+          "name": "Grand Central 42nd Street entrance",
+          "network": "Metro-North Railroad",
+          "network:wikidata": "Q125908",
+          "railway": "subway_entrance",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "id": "4676427530",
+        "lat": 40.7520653,
+        "lng": -73.9770781,
+        "tags": {
+          "entrance": "main",
+          "network": "Metro-North Railroad",
+          "network:wikidata": "Q125908",
+          "railway": "subway_entrance"
+        }
+      },
+      {
+        "id": "4676427870",
+        "lat": 40.7529787,
+        "lng": -73.9775796,
+        "tags": {
+          "entrance": "main",
+          "level": "0"
+        }
+      },
+      {
+        "id": "4689103465",
+        "lat": 40.7521677,
+        "lng": -73.9756773,
+        "tags": {
+          "entrance": "yes",
+          "name": "Grand Central 43rd Street / Lexington Avenue entrance",
+          "network": "Metro-North Railroad",
+          "network:wikidata": "Q125908",
+          "railway": "subway_entrance"
+        }
+      },
+      {
+        "id": "4689113869",
+        "lat": 40.752056,
+        "lng": -73.9757566,
+        "tags": {
+          "entrance": "yes",
+          "network": "Metro-North Railroad",
+          "network:wikidata": "Q125908",
+          "railway": "subway_entrance"
+        }
+      },
+      {
+        "id": "11507273104",
+        "lat": 40.7527213,
+        "lng": -73.9786885,
+        "tags": {
+          "entrance": "yes",
+          "level": "0",
+          "network": "Metro-North Railroad",
+          "network:wikidata": "Q125908",
+          "railway": "subway_entrance",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "id": "11507273116",
+        "lat": 40.7531617,
+        "lng": -73.9782525,
+        "tags": {
+          "entrance": "yes",
+          "level": "0",
+          "name": "43rd / Vanderbilt",
+          "network": "Metro-North Railroad",
+          "network:wikidata": "Q125908",
+          "railway": "subway_entrance",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "id": "11507279903",
+        "lat": 40.7539527,
+        "lng": -73.9763351,
+        "tags": {
+          "entrance": "yes"
+        }
+      }
+    ]
+  },
+  {
+    "place": "chelsea-market",
+    "source": "https://api.openstreetmap.org/api/0.6/map?bbox=-74.0076000,40.7414000,-74.0046000,40.7434000",
+    "checkedAt": "2026-11-11",
+    "entrances": [
+      {
+        "id": "4555581048",
+        "lat": 40.743495,
+        "lng": -74.0046993,
+        "tags": {
+          "entrance": "main"
+        }
+      },
+      {
+        "id": "5103334968",
+        "lat": 40.7432267,
+        "lng": -74.0064203,
+        "tags": {
+          "entrance": "yes"
+        }
+      },
+      {
+        "id": "5103334969",
+        "lat": 40.743393,
+        "lng": -74.0067446,
+        "tags": {
+          "entrance": "yes"
+        }
+      },
+      {
+        "id": "5103334970",
+        "lat": 40.743781,
+        "lng": -74.0067928,
+        "tags": {
+          "entrance": "yes"
+        }
+      },
+      {
+        "id": "5103334971",
+        "lat": 40.74372,
+        "lng": -74.0062486,
+        "tags": {
+          "entrance": "yes"
+        }
+      },
+      {
+        "id": "5103334972",
+        "lat": 40.7436027,
+        "lng": -74.0059595,
+        "tags": {
+          "entrance": "yes"
+        }
+      },
+      {
+        "id": "5103334973",
+        "lat": 40.743563,
+        "lng": -74.0058616,
+        "tags": {
+          "entrance": "garage"
+        }
+      },
+      {
+        "id": "5103340832",
+        "lat": 40.7420386,
+        "lng": -74.0040639,
+        "tags": {
+          "entrance": "yes"
+        }
+      }
+    ]
+  }
+]

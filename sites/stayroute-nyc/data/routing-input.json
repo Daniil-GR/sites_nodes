@@ -1,0 +1,178 @@
+[
+  {
+    "id": "midtown-icons",
+    "stops": [
+      "grand-central",
+      "nypl",
+      "rockefeller-center"
+    ],
+    "locations": [
+      {
+        "id": "grand-central",
+        "lat": 40.7522481,
+        "lon": -73.9775815
+      },
+      {
+        "id": "nypl",
+        "lat": 40.753014,
+        "lon": -73.9817686
+      },
+      {
+        "id": "rockefeller-center",
+        "lat": 40.7592576,
+        "lon": -73.9799569
+      }
+    ],
+    "visitMinutes": 85
+  },
+  {
+    "id": "west-side",
+    "stops": [
+      "chelsea-market",
+      "high-line",
+      "little-island"
+    ],
+    "locations": [
+      {
+        "id": "chelsea-market",
+        "lat": 40.7420513,
+        "lon": -74.0048973
+      },
+      {
+        "id": "high-line",
+        "lat": 40.7477038,
+        "lon": -74.0048912
+      },
+      {
+        "id": "little-island",
+        "lat": 40.7420041,
+        "lon": -74.0106105
+      }
+    ],
+    "visitMinutes": 100
+  },
+  {
+    "id": "bridge-to-brooklyn",
+    "stops": [
+      "brooklyn-bridge",
+      "dumbo",
+      "brooklyn-bridge-park"
+    ],
+    "locations": [
+      {
+        "id": "brooklyn-bridge",
+        "lat": 40.71218,
+        "lon": -74.00402
+      },
+      {
+        "id": "dumbo",
+        "lat": 40.7029052,
+        "lon": -73.990118
+      },
+      {
+        "id": "brooklyn-bridge-park",
+        "lat": 40.6982888,
+        "lon": -73.9999297
+      }
+    ],
+    "visitMinutes": 85
+  },
+  {
+    "id": "park-museum",
+    "stops": [
+      "bethesda-terrace",
+      "central-park",
+      "the-met"
+    ],
+    "locations": [
+      {
+        "id": "bethesda-terrace",
+        "lat": 40.7742185,
+        "lon": -73.9710525
+      },
+      {
+        "id": "central-park",
+        "lat": 40.7827725,
+        "lon": -73.9653627
+      },
+      {
+        "id": "the-met",
+        "lat": 40.77912,
+        "lon": -73.9626495
+      }
+    ],
+    "visitMinutes": 210
+  },
+  {
+    "id": "queens-view",
+    "stops": [
+      "moma-ps1",
+      "gantry-plaza"
+    ],
+    "locations": [
+      {
+        "id": "moma-ps1",
+        "lat": 40.7455907,
+        "lon": -73.9468872
+      },
+      {
+        "id": "gantry-plaza",
+        "lat": 40.7463469,
+        "lon": -73.9580029
+      }
+    ],
+    "visitMinutes": 120
+  },
+  {
+    "id": "village-lines",
+    "stops": [
+      "washington-square",
+      "flatiron",
+      "chelsea-market"
+    ],
+    "locations": [
+      {
+        "id": "washington-square",
+        "lat": 40.7308955,
+        "lon": -73.9976
+      },
+      {
+        "id": "flatiron",
+        "lat": 40.7410592,
+        "lon": -73.9896416
+      },
+      {
+        "id": "chelsea-market",
+        "lat": 40.7420513,
+        "lon": -74.0048973
+      }
+    ],
+    "visitMinutes": 100
+  },
+  {
+    "id": "brooklyn-river",
+    "stops": [
+      "brooklyn-bridge-park",
+      "dumbo",
+      "domino-park"
+    ],
+    "locations": [
+      {
+        "id": "brooklyn-bridge-park",
+        "lat": 40.6982888,
+        "lon": -73.9999297
+      },
+      {
+        "id": "dumbo",
+        "lat": 40.7029052,
+        "lon": -73.990118
+      },
+      {
+        "id": "domino-park",
+        "lat": 40.7141055,
+        "lon": -73.9682746
+      }
+    ],
+    "visitMinutes": 100
+  }
+]

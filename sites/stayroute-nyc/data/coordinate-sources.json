@@ -1,0 +1,863 @@
+[
+  {
+    "id": "brooklyn-bridge",
+    "query": "Brooklyn Bridge, New York City",
+    "source": "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Brooklyn+Bridge%2C+New+York+City&viewbox=-74.04%2C40.81%2C-73.93%2C40.69&bounded=1&limit=5",
+    "checkedAt": "2026-11-11",
+    "original": [
+      -73.9969,
+      40.7061
+    ],
+    "results": [
+      {
+        "place_id": 358294530,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 375157262,
+        "lat": "40.7062175",
+        "lon": "-73.9970208",
+        "category": "man_made",
+        "type": "bridge",
+        "place_rank": 30,
+        "importance": 0.5497799061249432,
+        "addresstype": "man_made",
+        "name": "Brooklyn Bridge",
+        "display_name": "Brooklyn Bridge, Robert F. Wagner Sr. Place, Manhattan Community Board 3, Manhattan, New York County, New York, 10038, United States",
+        "boundingbox": [
+          "40.7021781",
+          "40.7092045",
+          "-74.0007914",
+          "-73.9919219"
+        ]
+      },
+      {
+        "place_id": 358927030,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 432550255,
+        "lat": "40.7057498",
+        "lon": "-73.9962765",
+        "category": "highway",
+        "type": "trunk",
+        "place_rank": 26,
+        "importance": 0.5497799061249432,
+        "addresstype": "trunk",
+        "name": "Brooklyn Bridge",
+        "display_name": "Brooklyn Bridge, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, New York, 10038, United States",
+        "boundingbox": [
+          "40.7023210",
+          "40.7091794",
+          "-74.0005853",
+          "-73.9919670"
+        ]
+      },
+      {
+        "place_id": 359032292,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 46177152,
+        "lat": "40.7056466",
+        "lon": "-73.9964190",
+        "category": "highway",
+        "type": "trunk",
+        "place_rank": 26,
+        "importance": 0.5497799061249432,
+        "addresstype": "trunk",
+        "name": "Brooklyn Bridge",
+        "display_name": "Brooklyn Bridge, Seaport, Lower Manhattan, Manhattan, New York County, New York, 10038, United States",
+        "boundingbox": [
+          "40.7022184",
+          "40.7090747",
+          "-74.0007289",
+          "-73.9921091"
+        ]
+      },
+      {
+        "place_id": 357197937,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 432550257,
+        "lat": "40.7103767",
+        "lon": "-74.0023659",
+        "category": "highway",
+        "type": "trunk",
+        "place_rank": 26,
+        "importance": 0.05342509269855799,
+        "addresstype": "trunk",
+        "name": "Brooklyn Bridge",
+        "display_name": "Brooklyn Bridge, Civic Center, Lower Manhattan, Manhattan, New York County, New York, 10038, United States",
+        "boundingbox": [
+          "40.7093054",
+          "40.7114480",
+          "-74.0037138",
+          "-74.0010181"
+        ]
+      },
+      {
+        "place_id": 359074296,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 808611038,
+        "lat": "40.7014013",
+        "lon": "-73.9911097",
+        "category": "highway",
+        "type": "trunk",
+        "place_rank": 26,
+        "importance": 0.05342509269855799,
+        "addresstype": "trunk",
+        "name": "Brooklyn Bridge",
+        "display_name": "Brooklyn Bridge, Dumbo, Brooklyn, Kings County, New York, 11242, United States",
+        "boundingbox": [
+          "40.7011883",
+          "40.7016143",
+          "-73.9913686",
+          "-73.9908509"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "central-park",
+    "query": "Central Park, New York City",
+    "source": "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Central+Park%2C+New+York+City&viewbox=-74.04%2C40.81%2C-73.93%2C40.69&bounded=1&limit=5",
+    "checkedAt": "2026-11-11",
+    "original": [
+      -73.9654,
+      40.7829
+    ],
+    "results": [
+      {
+        "place_id": 359011203,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 427818536,
+        "lat": "40.7827725",
+        "lon": "-73.9653627",
+        "category": "leisure",
+        "type": "park",
+        "place_rank": 24,
+        "importance": 0.6120006106572555,
+        "addresstype": "park",
+        "name": "Central Park",
+        "display_name": "Central Park, New York County, New York, 11025, United States",
+        "boundingbox": [
+          "40.7647275",
+          "40.8003135",
+          "-73.9814075",
+          "-73.9496061"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "high-line",
+    "query": "The High Line, New York City",
+    "source": "https://nominatim.openstreetmap.org/search?format=jsonv2&q=The+High+Line%2C+New+York+City&viewbox=-74.04%2C40.81%2C-73.93%2C40.69&bounded=1&limit=5",
+    "checkedAt": "2026-11-11",
+    "original": [
+      -74.0048,
+      40.748
+    ],
+    "results": [
+      {
+        "place_id": 358642391,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 7141751,
+        "lat": "40.7477038",
+        "lon": "-74.0048912",
+        "category": "man_made",
+        "type": "bridge",
+        "place_rank": 30,
+        "importance": 0.4799432766896504,
+        "addresstype": "man_made",
+        "name": "The High Line",
+        "display_name": "The High Line, 10th Avenue, Chelsea District, Manhattan Community Board 4, Manhattan, New York County, New York, 10011, United States",
+        "boundingbox": [
+          "40.7394351",
+          "40.7564702",
+          "-74.0083229",
+          "-73.9995850"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dumbo",
+    "query": "DUMBO Brooklyn, New York City",
+    "source": "https://nominatim.openstreetmap.org/search?format=jsonv2&q=DUMBO+Brooklyn%2C+New+York+City&viewbox=-74.04%2C40.81%2C-73.93%2C40.69&bounded=1&limit=5",
+    "checkedAt": "2026-11-11",
+    "original": [
+      -73.9885,
+      40.7034
+    ],
+    "results": [
+      {
+        "place_id": 359132864,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 14767202,
+        "lat": "40.6956876",
+        "lon": "-73.9878794",
+        "category": "amenity",
+        "type": "university",
+        "place_rank": 30,
+        "importance": 0.40110878673898587,
+        "addresstype": "amenity",
+        "name": "New York City College of Technology",
+        "display_name": "New York City College of Technology, Jay Street, Dumbo, Brooklyn, Kings County, New York, 11201, United States",
+        "boundingbox": [
+          "40.6950393",
+          "40.6996167",
+          "-73.9885272",
+          "-73.9853607"
+        ]
+      },
+      {
+        "place_id": 359972045,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 250402638,
+        "lat": "40.7027648",
+        "lon": "-73.9879665",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 9.175936522464359e-05,
+        "addresstype": "building",
+        "name": "New York City Department of Transportation Iron Shop",
+        "display_name": "New York City Department of Transportation Iron Shop, 59, Adams Street, Dumbo, Brooklyn, Kings County, New York, 11201, United States",
+        "boundingbox": [
+          "40.7025321",
+          "40.7028625",
+          "-73.9884079",
+          "-73.9877153"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grand-central",
+    "query": "Grand Central Terminal, New York City",
+    "source": "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Grand+Central+Terminal%2C+New+York+City&viewbox=-74.04%2C40.81%2C-73.93%2C40.69&bounded=1&limit=5",
+    "checkedAt": "2026-11-11",
+    "original": [
+      -73.9772,
+      40.7527
+    ],
+    "results": [
+      {
+        "place_id": 430844782,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 265947358,
+        "lat": "40.7526944",
+        "lon": "-73.9772530",
+        "category": "building",
+        "type": "train_station",
+        "place_rank": 30,
+        "importance": 0.5454188880865112,
+        "addresstype": "building",
+        "name": "Grand Central Terminal",
+        "display_name": "Grand Central Terminal, 89, East 42nd Street, Midtown, Manhattan Community Board 5, Manhattan, New York County, New York, 10168, United States",
+        "boundingbox": [
+          "40.7519810",
+          "40.7533155",
+          "-73.9781878",
+          "-73.9763618"
+        ]
+      },
+      {
+        "place_id": 359191670,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7099182377,
+        "lat": "40.7528064",
+        "lon": "-73.9771792",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.5454188880865112,
+        "addresstype": "railway",
+        "name": "Grand Central Terminal",
+        "display_name": "Grand Central Terminal, 89, East 42nd Street, Midtown, Manhattan Community Board 5, Manhattan, New York County, New York, 10168, United States",
+        "boundingbox": [
+          "40.7478064",
+          "40.7578064",
+          "-73.9821792",
+          "-73.9721792"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "flatiron",
+    "query": "Flatiron Building, New York City",
+    "source": "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Flatiron+Building%2C+New+York+City&viewbox=-74.04%2C40.81%2C-73.93%2C40.69&bounded=1&limit=5",
+    "checkedAt": "2026-11-11",
+    "original": [
+      -73.9897,
+      40.7411
+    ],
+    "results": [
+      {
+        "place_id": 359138108,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 264768896,
+        "lat": "40.7410592",
+        "lon": "-73.9896416",
+        "category": "tourism",
+        "type": "attraction",
+        "place_rank": 30,
+        "importance": 9.175936522464359e-05,
+        "addresstype": "tourism",
+        "name": "Flatiron Building",
+        "display_name": "Flatiron Building, 175, 5th Avenue, Flatiron District, Manhattan Community Board 5, Manhattan, New York County, New York, 10010, United States",
+        "boundingbox": [
+          "40.7407596",
+          "40.7413004",
+          "-73.9898715",
+          "-73.9895014"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "brooklyn-bridge-park",
+    "query": "Brooklyn Bridge Park, New York City",
+    "source": "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Brooklyn+Bridge+Park%2C+New+York+City&viewbox=-74.04%2C40.81%2C-73.93%2C40.69&bounded=1&limit=5",
+    "checkedAt": "2026-11-11",
+    "original": [
+      -73.9967,
+      40.7003
+    ],
+    "results": [
+      {
+        "place_id": 359015236,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 56469108,
+        "lat": "40.6982888",
+        "lon": "-73.9999297",
+        "category": "leisure",
+        "type": "park",
+        "place_rank": 24,
+        "importance": 0.41191683235927684,
+        "addresstype": "park",
+        "name": "Brooklyn Bridge Park",
+        "display_name": "Brooklyn Bridge Park, 334, Brooklyn, Kings County, New York, 11201, United States",
+        "boundingbox": [
+          "40.6918847",
+          "40.7051759",
+          "-74.0039676",
+          "-73.9864459"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "little-island",
+    "query": "Little Island, New York City",
+    "source": "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Little+Island%2C+New+York+City&viewbox=-74.04%2C40.81%2C-73.93%2C40.69&bounded=1&limit=5",
+    "checkedAt": "2026-11-11",
+    "original": [
+      -74.0103,
+      40.742
+    ],
+    "results": [
+      {
+        "place_id": 356121741,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 833335529,
+        "lat": "40.7420041",
+        "lon": "-74.0106105",
+        "category": "leisure",
+        "type": "park",
+        "place_rank": 30,
+        "importance": 0.44050461830476045,
+        "addresstype": "leisure",
+        "name": "Little Island",
+        "display_name": "Little Island, North Bridge, Manhattan Community Board 4, Manhattan, New York County, New York, 10014, United States",
+        "boundingbox": [
+          "40.7414079",
+          "40.7426017",
+          "-74.0113912",
+          "-74.0098282"
+        ]
+      },
+      {
+        "place_id": 358860528,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1123977467,
+        "lat": "40.7418705",
+        "lon": "-74.0111398",
+        "category": "natural",
+        "type": "scrub",
+        "place_rank": 22,
+        "importance": 0.10675842603189133,
+        "addresstype": "scrub",
+        "name": "Little Island",
+        "display_name": "Little Island, Manhattan, New York County, New York, United States",
+        "boundingbox": [
+          "40.7417927",
+          "40.7419540",
+          "-74.0112728",
+          "-74.0110673"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "chelsea-market",
+    "query": "Chelsea Market, New York City",
+    "source": "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Chelsea+Market%2C+New+York+City&viewbox=-74.04%2C40.81%2C-73.93%2C40.69&bounded=1&limit=5",
+    "checkedAt": "2026-11-11",
+    "original": [
+      -74.0061,
+      40.7424
+    ],
+    "results": [
+      {
+        "place_id": 356365755,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1272608999,
+        "lat": "40.7420513",
+        "lon": "-74.0048973",
+        "category": "shop",
+        "type": "mall",
+        "place_rank": 30,
+        "importance": 0.469271995094615,
+        "addresstype": "shop",
+        "name": "Chelsea Market",
+        "display_name": "Chelsea Market, 75, 9th Avenue, Chelsea District, Manhattan Community Board 4, Manhattan, New York County, New York, 10011, United States",
+        "boundingbox": [
+          "40.7420013",
+          "40.7421013",
+          "-74.0049473",
+          "-74.0048473"
+        ]
+      },
+      {
+        "place_id": 356835137,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2601867200,
+        "lat": "40.7418408",
+        "lon": "-74.0048923",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 9.175936522464359e-05,
+        "addresstype": "place",
+        "name": "Chelsea Market",
+        "display_name": "Chelsea Market, 75, 9th Avenue, Chelsea District, Manhattan Community Board 4, Manhattan, New York County, New York, 10011, United States",
+        "boundingbox": [
+          "40.7417908",
+          "40.7418908",
+          "-74.0049423",
+          "-74.0048423"
+        ]
+      },
+      {
+        "place_id": 357088748,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4236846690,
+        "lat": "40.7429236",
+        "lon": "-74.0069958",
+        "category": "tourism",
+        "type": "attraction",
+        "place_rank": 30,
+        "importance": 9.175936522464359e-05,
+        "addresstype": "tourism",
+        "name": "Chelsea Market",
+        "display_name": "Chelsea Market, 75, 9th Avenue, Chelsea District, Manhattan Community Board 4, Manhattan, New York County, New York, 10011, United States",
+        "boundingbox": [
+          "40.7428736",
+          "40.7429736",
+          "-74.0070458",
+          "-74.0069458"
+        ]
+      },
+      {
+        "place_id": 357176652,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2601850441,
+        "lat": "40.7418051",
+        "lon": "-74.0049865",
+        "category": "shop",
+        "type": "clothes",
+        "place_rank": 30,
+        "importance": 9.175936522464359e-05,
+        "addresstype": "shop",
+        "name": "Anthropologie",
+        "display_name": "Anthropologie, 9th Avenue, Chelsea District, Manhattan Community Board 4, Manhattan, New York County, New York, 10011, United States",
+        "boundingbox": [
+          "40.7417551",
+          "40.7418551",
+          "-74.0050365",
+          "-74.0049365"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bethesda-terrace",
+    "query": "Bethesda Terrace, New York City",
+    "source": "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Bethesda+Terrace%2C+New+York+City&viewbox=-74.04%2C40.81%2C-73.93%2C40.69&bounded=1&limit=5",
+    "checkedAt": "2026-11-11",
+    "original": [
+      -73.9709,
+      40.774
+    ],
+    "results": [
+      {
+        "place_id": 360545094,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3170084,
+        "lat": "40.7742185",
+        "lon": "-73.9710525",
+        "category": "highway",
+        "type": "pedestrian",
+        "place_rank": 26,
+        "importance": 0.34293738116529454,
+        "addresstype": "pedestrian",
+        "name": "Bethesda Terrace",
+        "display_name": "Bethesda Terrace, Manhattan, New York County, New York, 10065, United States",
+        "boundingbox": [
+          "40.7738374",
+          "40.7745925",
+          "-73.9712387",
+          "-73.9704792"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-met",
+    "query": "Metropolitan Museum of Art, New York City",
+    "source": "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Metropolitan+Museum+of+Art%2C+New+York+City&viewbox=-74.04%2C40.81%2C-73.93%2C40.69&bounded=1&limit=5",
+    "checkedAt": "2026-11-11",
+    "original": [
+      -73.9632,
+      40.7794
+    ],
+    "results": []
+  },
+  {
+    "id": "washington-square",
+    "query": "Washington Square Park, New York City",
+    "source": "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Washington+Square+Park%2C+New+York+City&viewbox=-74.04%2C40.81%2C-73.93%2C40.69&bounded=1&limit=5",
+    "checkedAt": "2026-11-11",
+    "original": [
+      -73.9973,
+      40.7308
+    ],
+    "results": [
+      {
+        "place_id": 359149851,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 22899302,
+        "lat": "40.7308955",
+        "lon": "-73.9976000",
+        "category": "leisure",
+        "type": "park",
+        "place_rank": 24,
+        "importance": 0.5165620913474094,
+        "addresstype": "park",
+        "name": "Washington Square Park",
+        "display_name": "Washington Square Park, Manhattan, New York County, New York, United States",
+        "boundingbox": [
+          "40.7296307",
+          "40.7321463",
+          "-73.9995207",
+          "-73.9956656"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nypl",
+    "query": "Stephen A. Schwarzman Building, New York City",
+    "source": "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Stephen+A.+Schwarzman+Building%2C+New+York+City&viewbox=-74.04%2C40.81%2C-73.93%2C40.69&bounded=1&limit=5",
+    "checkedAt": "2026-11-11",
+    "original": [
+      -73.9822,
+      40.7532
+    ],
+    "results": [
+      {
+        "place_id": 359762931,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 265302076,
+        "lat": "40.7533445",
+        "lon": "-73.9821524",
+        "category": "amenity",
+        "type": "library",
+        "place_rank": 30,
+        "importance": 0.46977615874031897,
+        "addresstype": "amenity",
+        "name": "Stephen A. Schwarzman Building",
+        "display_name": "Stephen A. Schwarzman Building, 476, 5th Avenue, Midtown South, Manhattan Community Board 5, Manhattan, New York County, New York, 10018, United States",
+        "boundingbox": [
+          "40.7525994",
+          "40.7538369",
+          "-73.9829827",
+          "-73.9815082"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rockefeller-center",
+    "query": "Rockefeller Center, New York City",
+    "source": "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Rockefeller+Center%2C+New+York+City&viewbox=-74.04%2C40.81%2C-73.93%2C40.69&bounded=1&limit=5",
+    "checkedAt": "2026-11-11",
+    "original": [
+      -73.9787,
+      40.7587
+    ],
+    "results": [
+      {
+        "place_id": 359796896,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 18351439,
+        "lat": "40.7592576",
+        "lon": "-73.9799569",
+        "category": "tourism",
+        "type": "attraction",
+        "place_rank": 30,
+        "importance": 0.5479789530215503,
+        "addresstype": "tourism",
+        "name": "Rockefeller Center",
+        "display_name": "Rockefeller Center, 45, Rockefeller Plaza, Midtown, Manhattan Community Board 5, Manhattan, New York County, New York, 10111, United States",
+        "boundingbox": [
+          "40.7573666",
+          "40.7611130",
+          "-73.9833055",
+          "-73.9768824"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gantry-plaza",
+    "query": "Gantry Plaza State Park, New York City",
+    "source": "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Gantry+Plaza+State+Park%2C+New+York+City&viewbox=-74.04%2C40.81%2C-73.93%2C40.69&bounded=1&limit=5",
+    "checkedAt": "2026-11-11",
+    "original": [
+      -73.9573,
+      40.7466
+    ],
+    "results": [
+      {
+        "place_id": 358984194,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 25428484,
+        "lat": "40.7463469",
+        "lon": "-73.9580029",
+        "category": "leisure",
+        "type": "park",
+        "place_rank": 24,
+        "importance": 0.43407397006149884,
+        "addresstype": "park",
+        "name": "Gantry Plaza State Park",
+        "display_name": "Gantry Plaza State Park, 4-09, Long Island City, Queens, Queens County, New York, 11101, United States",
+        "boundingbox": [
+          "40.7438035",
+          "40.7489289",
+          "-73.9606758",
+          "-73.9548203"
+        ]
+      },
+      {
+        "place_id": 359913542,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 25355873,
+        "lat": "40.7440352",
+        "lon": "-73.9546461",
+        "category": "leisure",
+        "type": "park",
+        "place_rank": 24,
+        "importance": 0.08009175936522465,
+        "addresstype": "park",
+        "name": "Gantry Plaza State Park",
+        "display_name": "Gantry Plaza State Park, Long Island City, Queens, Queens County, New York, United States",
+        "boundingbox": [
+          "40.7437954",
+          "40.7443728",
+          "-73.9559680",
+          "-73.9538181"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "moma-ps1",
+    "query": "MoMA PS1, New York City",
+    "source": "https://nominatim.openstreetmap.org/search?format=jsonv2&q=MoMA+PS1%2C+New+York+City&viewbox=-74.04%2C40.81%2C-73.93%2C40.69&bounded=1&limit=5",
+    "checkedAt": "2026-11-11",
+    "original": [
+      -73.9477,
+      40.7455
+    ],
+    "results": [
+      {
+        "place_id": 359128224,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 370574294,
+        "lat": "40.7455823",
+        "lon": "-73.9474668",
+        "category": "amenity",
+        "type": "arts_centre",
+        "place_rank": 30,
+        "importance": 0.46514647657456487,
+        "addresstype": "amenity",
+        "name": "MoMA PS1",
+        "display_name": "MoMA PS1, 46th Road, Court Square, Long Island City, Queens, Queens County, New York, 11109, United States",
+        "boundingbox": [
+          "40.7452177",
+          "40.7458849",
+          "-73.9481439",
+          "-73.9468446"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "domino-park",
+    "query": "Domino Park, New York City",
+    "source": "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Domino+Park%2C+New+York+City&viewbox=-74.04%2C40.81%2C-73.93%2C40.69&bounded=1&limit=5",
+    "checkedAt": "2026-11-11",
+    "original": [
+      -73.9677,
+      40.7148
+    ],
+    "results": [
+      {
+        "place_id": 360008315,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 608663280,
+        "lat": "40.7141055",
+        "lon": "-73.9682746",
+        "category": "leisure",
+        "type": "park",
+        "place_rank": 24,
+        "importance": 0.3933592766861344,
+        "addresstype": "park",
+        "name": "Domino Park",
+        "display_name": "Domino Park, Brooklyn, Kings County, New York, United States",
+        "boundingbox": [
+          "40.7128470",
+          "40.7165105",
+          "-73.9688346",
+          "-73.9667694"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "one-world",
+    "query": "One World Trade Center, New York City",
+    "source": "https://nominatim.openstreetmap.org/search?format=jsonv2&q=One+World+Trade+Center%2C+New+York+City&viewbox=-74.04%2C40.81%2C-73.93%2C40.69&bounded=1&limit=5",
+    "checkedAt": "2026-11-11",
+    "original": [
+      -74.0134,
+      40.7127
+    ],
+    "results": [
+      {
+        "place_id": 431617504,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 713565776,
+        "lat": "40.7129992",
+        "lon": "-74.0131894",
+        "category": "building",
+        "type": "commercial",
+        "place_rank": 30,
+        "importance": 0.5460800962112846,
+        "addresstype": "building",
+        "name": "One World Trade Center",
+        "display_name": "One World Trade Center, 285, Fulton Street, Battery Park City, Lower Manhattan, Manhattan, New York County, New York, 10048, United States",
+        "boundingbox": [
+          "40.7126048",
+          "40.7133937",
+          "-74.0137104",
+          "-74.0126685"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-met",
+    "query": "The Metropolitan Museum of Art",
+    "source": "https://nominatim.openstreetmap.org/search?format=jsonv2&q=The+Metropolitan+Museum+of+Art&viewbox=-74.04%2C40.81%2C-73.93%2C40.69&bounded=1&limit=5",
+    "checkedAt": "2026-11-11",
+    "results": [
+      {
+        "place_id": 359731714,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3698894,
+        "lat": "40.7794396",
+        "lon": "-73.9633825",
+        "category": "tourism",
+        "type": "museum",
+        "place_rank": 30,
+        "importance": 0.6827476213679656,
+        "addresstype": "tourism",
+        "name": "The Metropolitan Museum of Art",
+        "display_name": "The Metropolitan Museum of Art, 1000, 5th Avenue, Upper East Side, Manhattan Community Board 8, Manhattan, New York County, New York, 10075, United States",
+        "boundingbox": [
+          "40.7778736",
+          "40.7809200",
+          "-73.9651438",
+          "-73.9616917"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dumbo",
+    "query": "DUMBO",
+    "source": "https://nominatim.openstreetmap.org/search?format=jsonv2&q=DUMBO&viewbox=-74.04%2C40.81%2C-73.93%2C40.69&bounded=1&limit=5",
+    "checkedAt": "2026-11-11",
+    "results": [
+      {
+        "place_id": 359007552,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2019020144,
+        "lat": "40.7029052",
+        "lon": "-73.9901180",
+        "category": "place",
+        "type": "neighbourhood",
+        "place_rank": 24,
+        "importance": 0.4155791147609246,
+        "addresstype": "neighbourhood",
+        "name": "Dumbo",
+        "display_name": "Dumbo, Brooklyn, Kings County, New York, 11242, United States",
+        "boundingbox": [
+          "40.6929052",
+          "40.7129052",
+          "-74.0001180",
+          "-73.9801180"
+        ]
+      }
+    ]
+  }
+]

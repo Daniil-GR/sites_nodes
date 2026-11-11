@@ -1,0 +1,291 @@
+{
+  "units": "kilometers",
+  "edges": [
+    {
+      "way_id": 888552612,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 1,
+      "begin_shape_index": 0,
+      "road_class": "service_other",
+      "length": 0.036,
+      "source_percent_along": 0.455
+    },
+    {
+      "way_id": 894118370,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 2,
+      "begin_shape_index": 1,
+      "road_class": "service_other",
+      "length": 0.006
+    },
+    {
+      "way_id": 894118370,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 3,
+      "begin_shape_index": 2,
+      "road_class": "service_other",
+      "length": 0.007
+    },
+    {
+      "way_id": 894118373,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 4,
+      "begin_shape_index": 3,
+      "road_class": "service_other",
+      "length": 0.02
+    },
+    {
+      "way_id": 894118373,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 5,
+      "begin_shape_index": 4,
+      "road_class": "service_other",
+      "length": 0.021
+    },
+    {
+      "way_id": 459820144,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 6,
+      "begin_shape_index": 5,
+      "road_class": "service_other",
+      "length": 0.052
+    },
+    {
+      "way_id": 459820148,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 7,
+      "begin_shape_index": 6,
+      "road_class": "service_other",
+      "length": 0.022
+    },
+    {
+      "way_id": 894118374,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 8,
+      "begin_shape_index": 7,
+      "road_class": "service_other",
+      "length": 0.019
+    },
+    {
+      "way_id": 894118372,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 9,
+      "begin_shape_index": 8,
+      "road_class": "service_other",
+      "length": 0.089
+    },
+    {
+      "way_id": 894118372,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 10,
+      "begin_shape_index": 9,
+      "road_class": "service_other",
+      "length": 0.085
+    },
+    {
+      "way_id": 888552611,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 11,
+      "begin_shape_index": 10,
+      "road_class": "service_other",
+      "length": 0.011
+    },
+    {
+      "way_id": 194923800,
+      "bridge": false,
+      "tunnel": false,
+      "use": "road",
+      "traversability": "both",
+      "end_shape_index": 12,
+      "begin_shape_index": 11,
+      "road_class": "primary",
+      "length": 0.002,
+      "names": [
+        "10th Avenue"
+      ]
+    },
+    {
+      "way_id": 0,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 13,
+      "begin_shape_index": 12,
+      "road_class": "service_other",
+      "length": 0.005
+    },
+    {
+      "way_id": 0,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 14,
+      "begin_shape_index": 13,
+      "road_class": "service_other",
+      "length": 0.006
+    },
+    {
+      "way_id": 1501251547,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 16,
+      "begin_shape_index": 14,
+      "road_class": "service_other",
+      "length": 0.023,
+      "names": [
+        "High Line"
+      ]
+    },
+    {
+      "way_id": 1501251547,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 21,
+      "begin_shape_index": 16,
+      "road_class": "service_other",
+      "length": 0.055,
+      "names": [
+        "High Line"
+      ]
+    },
+    {
+      "way_id": 1501251547,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 23,
+      "begin_shape_index": 21,
+      "road_class": "service_other",
+      "length": 0.012,
+      "names": [
+        "High Line"
+      ]
+    },
+    {
+      "way_id": 1501251547,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 27,
+      "begin_shape_index": 23,
+      "road_class": "service_other",
+      "length": 0.054,
+      "names": [
+        "High Line"
+      ]
+    },
+    {
+      "way_id": 350563861,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 31,
+      "begin_shape_index": 27,
+      "road_class": "service_other",
+      "length": 0.101,
+      "names": [
+        "High Line"
+      ]
+    },
+    {
+      "way_id": 350563861,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 35,
+      "begin_shape_index": 31,
+      "road_class": "service_other",
+      "length": 0.152,
+      "names": [
+        "High Line"
+      ]
+    },
+    {
+      "way_id": 350563861,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 36,
+      "begin_shape_index": 35,
+      "road_class": "service_other",
+      "length": 0.013,
+      "names": [
+        "High Line"
+      ]
+    },
+    {
+      "way_id": 350563861,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 38,
+      "begin_shape_index": 36,
+      "road_class": "service_other",
+      "length": 0.017,
+      "names": [
+        "High Line"
+      ]
+    },
+    {
+      "way_id": 350563861,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 39,
+      "begin_shape_index": 38,
+      "road_class": "service_other",
+      "length": 0.037,
+      "target_percent_along": 0.521,
+      "names": [
+        "High Line"
+      ]
+    }
+  ],
+  "alternate_paths": []
+}

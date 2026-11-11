@@ -1,0 +1,617 @@
+{
+  "units": "kilometers",
+  "edges": [
+    {
+      "way_id": 889114526,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 1,
+      "begin_shape_index": 0,
+      "road_class": "service_other",
+      "length": 0.028,
+      "source_percent_along": 0.246
+    },
+    {
+      "way_id": 1112436273,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 2,
+      "begin_shape_index": 1,
+      "road_class": "service_other",
+      "length": 0.001
+    },
+    {
+      "way_id": 889114530,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 3,
+      "begin_shape_index": 2,
+      "road_class": "service_other",
+      "length": 0.005
+    },
+    {
+      "way_id": 889114530,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 4,
+      "begin_shape_index": 3,
+      "road_class": "service_other",
+      "length": 0.004
+    },
+    {
+      "way_id": 1112436277,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 5,
+      "begin_shape_index": 4,
+      "road_class": "service_other",
+      "length": 0.003
+    },
+    {
+      "way_id": 1112578540,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 6,
+      "begin_shape_index": 5,
+      "road_class": "service_other",
+      "length": 0.003
+    },
+    {
+      "way_id": 1138231987,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 8,
+      "begin_shape_index": 6,
+      "road_class": "service_other",
+      "length": 0.002
+    },
+    {
+      "way_id": 1138231986,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 9,
+      "begin_shape_index": 8,
+      "road_class": "service_other",
+      "length": 0.003
+    },
+    {
+      "way_id": 889114525,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 10,
+      "begin_shape_index": 9,
+      "road_class": "service_other",
+      "length": 0.004
+    },
+    {
+      "way_id": 889114525,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 11,
+      "begin_shape_index": 10,
+      "road_class": "service_other",
+      "length": 0.008
+    },
+    {
+      "way_id": 1112578541,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 12,
+      "begin_shape_index": 11,
+      "road_class": "service_other",
+      "length": 0.003
+    },
+    {
+      "way_id": 1112578544,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 13,
+      "begin_shape_index": 12,
+      "road_class": "service_other",
+      "length": 0.286
+    },
+    {
+      "way_id": 1112578546,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 14,
+      "begin_shape_index": 13,
+      "road_class": "service_other",
+      "length": 0.063
+    },
+    {
+      "way_id": 833535304,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 15,
+      "begin_shape_index": 14,
+      "road_class": "service_other",
+      "length": 0.012
+    },
+    {
+      "way_id": 833535304,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 16,
+      "begin_shape_index": 15,
+      "road_class": "service_other",
+      "length": 0.013
+    },
+    {
+      "way_id": 1053671309,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 17,
+      "begin_shape_index": 16,
+      "road_class": "service_other",
+      "length": 0.249
+    },
+    {
+      "way_id": 1053671309,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 18,
+      "begin_shape_index": 17,
+      "road_class": "service_other",
+      "length": 0.003
+    },
+    {
+      "way_id": 1105362733,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 19,
+      "begin_shape_index": 18,
+      "road_class": "service_other",
+      "length": 0.009
+    },
+    {
+      "way_id": 813970416,
+      "bridge": false,
+      "tunnel": false,
+      "use": "road",
+      "traversability": "both",
+      "end_shape_index": 20,
+      "begin_shape_index": 19,
+      "road_class": "secondary",
+      "length": 0.006,
+      "names": [
+        "7th Avenue"
+      ]
+    },
+    {
+      "way_id": 813970416,
+      "bridge": false,
+      "tunnel": false,
+      "use": "road",
+      "traversability": "both",
+      "end_shape_index": 21,
+      "begin_shape_index": 20,
+      "road_class": "secondary",
+      "length": 0.008,
+      "names": [
+        "7th Avenue"
+      ]
+    },
+    {
+      "way_id": 813970416,
+      "bridge": false,
+      "tunnel": false,
+      "use": "road",
+      "traversability": "both",
+      "end_shape_index": 22,
+      "begin_shape_index": 21,
+      "road_class": "secondary",
+      "length": 0.044,
+      "names": [
+        "7th Avenue"
+      ]
+    },
+    {
+      "way_id": 852992107,
+      "bridge": false,
+      "tunnel": false,
+      "use": "road",
+      "traversability": "both",
+      "end_shape_index": 24,
+      "begin_shape_index": 22,
+      "road_class": "secondary",
+      "length": 0.016,
+      "names": [
+        "7th Avenue"
+      ]
+    },
+    {
+      "way_id": 852992107,
+      "bridge": false,
+      "tunnel": false,
+      "use": "road",
+      "traversability": "both",
+      "end_shape_index": 25,
+      "begin_shape_index": 24,
+      "road_class": "secondary",
+      "length": 0.007,
+      "names": [
+        "7th Avenue"
+      ]
+    },
+    {
+      "way_id": 852992111,
+      "bridge": false,
+      "tunnel": false,
+      "use": "road",
+      "traversability": "both",
+      "end_shape_index": 26,
+      "begin_shape_index": 25,
+      "road_class": "secondary",
+      "length": 0.008,
+      "names": [
+        "7th Avenue"
+      ]
+    },
+    {
+      "way_id": 852992111,
+      "bridge": false,
+      "tunnel": false,
+      "use": "road",
+      "traversability": "both",
+      "end_shape_index": 27,
+      "begin_shape_index": 26,
+      "road_class": "secondary",
+      "length": 0.059,
+      "names": [
+        "7th Avenue"
+      ]
+    },
+    {
+      "way_id": 852992111,
+      "bridge": false,
+      "tunnel": false,
+      "use": "road",
+      "traversability": "both",
+      "end_shape_index": 28,
+      "begin_shape_index": 27,
+      "road_class": "secondary",
+      "length": 0.009,
+      "names": [
+        "7th Avenue"
+      ]
+    },
+    {
+      "way_id": 852992111,
+      "bridge": false,
+      "tunnel": false,
+      "use": "road",
+      "traversability": "both",
+      "end_shape_index": 29,
+      "begin_shape_index": 28,
+      "road_class": "secondary",
+      "length": 0.006,
+      "names": [
+        "7th Avenue"
+      ]
+    },
+    {
+      "way_id": 852992111,
+      "bridge": false,
+      "tunnel": false,
+      "use": "road",
+      "traversability": "both",
+      "end_shape_index": 30,
+      "begin_shape_index": 29,
+      "road_class": "secondary",
+      "length": 0.044,
+      "names": [
+        "7th Avenue"
+      ]
+    },
+    {
+      "way_id": 852992100,
+      "bridge": false,
+      "tunnel": false,
+      "use": "road",
+      "traversability": "both",
+      "end_shape_index": 31,
+      "begin_shape_index": 30,
+      "road_class": "secondary",
+      "length": 0.017,
+      "names": [
+        "7th Avenue"
+      ]
+    },
+    {
+      "way_id": 852992100,
+      "bridge": false,
+      "tunnel": false,
+      "use": "road",
+      "traversability": "both",
+      "end_shape_index": 32,
+      "begin_shape_index": 31,
+      "road_class": "secondary",
+      "length": 0.008,
+      "names": [
+        "7th Avenue"
+      ]
+    },
+    {
+      "way_id": 852992102,
+      "bridge": false,
+      "tunnel": false,
+      "use": "road",
+      "traversability": "both",
+      "end_shape_index": 33,
+      "begin_shape_index": 32,
+      "road_class": "secondary",
+      "length": 0.007,
+      "names": [
+        "7th Avenue"
+      ]
+    },
+    {
+      "way_id": 852992102,
+      "bridge": false,
+      "tunnel": false,
+      "use": "road",
+      "traversability": "both",
+      "end_shape_index": 34,
+      "begin_shape_index": 33,
+      "road_class": "secondary",
+      "length": 0.06,
+      "names": [
+        "7th Avenue"
+      ]
+    },
+    {
+      "way_id": 852992102,
+      "bridge": false,
+      "tunnel": false,
+      "use": "road",
+      "traversability": "both",
+      "end_shape_index": 35,
+      "begin_shape_index": 34,
+      "road_class": "secondary",
+      "length": 0.007,
+      "names": [
+        "7th Avenue"
+      ]
+    },
+    {
+      "way_id": 852992102,
+      "bridge": false,
+      "tunnel": false,
+      "use": "road",
+      "traversability": "both",
+      "end_shape_index": 36,
+      "begin_shape_index": 35,
+      "road_class": "secondary",
+      "length": 0.008,
+      "names": [
+        "7th Avenue"
+      ]
+    },
+    {
+      "way_id": 907770630,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 37,
+      "begin_shape_index": 36,
+      "road_class": "service_other",
+      "length": 0.014
+    },
+    {
+      "way_id": 894118383,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 38,
+      "begin_shape_index": 37,
+      "road_class": "service_other",
+      "length": 0.247
+    },
+    {
+      "way_id": 1073231449,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 39,
+      "begin_shape_index": 38,
+      "road_class": "service_other",
+      "length": 0.002
+    },
+    {
+      "way_id": 1073231440,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 40,
+      "begin_shape_index": 39,
+      "road_class": "service_other",
+      "length": 0.012
+    },
+    {
+      "way_id": 1073231440,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 41,
+      "begin_shape_index": 40,
+      "road_class": "service_other",
+      "length": 0.003
+    },
+    {
+      "way_id": 1518519214,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 42,
+      "begin_shape_index": 41,
+      "road_class": "service_other",
+      "length": 0.002
+    },
+    {
+      "way_id": 1518519213,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 43,
+      "begin_shape_index": 42,
+      "road_class": "service_other",
+      "length": 0.006
+    },
+    {
+      "way_id": 1073231446,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 44,
+      "begin_shape_index": 43,
+      "road_class": "service_other",
+      "length": 0.002
+    },
+    {
+      "way_id": 888695600,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 45,
+      "begin_shape_index": 44,
+      "road_class": "service_other",
+      "length": 0.052
+    },
+    {
+      "way_id": 888695595,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 46,
+      "begin_shape_index": 45,
+      "road_class": "service_other",
+      "length": 0.027
+    },
+    {
+      "way_id": 888695595,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 47,
+      "begin_shape_index": 46,
+      "road_class": "service_other",
+      "length": 0.032
+    },
+    {
+      "way_id": 888695600,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 48,
+      "begin_shape_index": 47,
+      "road_class": "service_other",
+      "length": 0.199
+    },
+    {
+      "way_id": 894118370,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 49,
+      "begin_shape_index": 48,
+      "road_class": "service_other",
+      "length": 0.013
+    },
+    {
+      "way_id": 894118370,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 50,
+      "begin_shape_index": 49,
+      "road_class": "service_other",
+      "length": 0.01
+    },
+    {
+      "way_id": 894118370,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 51,
+      "begin_shape_index": 50,
+      "road_class": "service_other",
+      "length": 0.007
+    },
+    {
+      "way_id": 894118370,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 52,
+      "begin_shape_index": 51,
+      "road_class": "service_other",
+      "length": 0.006
+    },
+    {
+      "way_id": 888552612,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 53,
+      "begin_shape_index": 52,
+      "road_class": "service_other",
+      "length": 0.036,
+      "target_percent_along": 0.544
+    }
+  ],
+  "alternate_paths": []
+}

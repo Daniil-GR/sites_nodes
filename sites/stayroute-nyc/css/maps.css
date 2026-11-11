@@ -1,0 +1,23 @@
+/* Only map pages load these styles. Leaflet owns marker transforms and SVG sizes. */
+.map-canvas{scroll-margin-top:125px;isolation:isolate;background:#edf0eb;z-index:0;touch-action:auto}
+.map-canvas svg{width:auto;height:auto;display:initial}
+.map-canvas .leaflet-container,.leaflet-container{font-family:Manrope,Arial,sans-serif}
+.stayroute-pin{background:#263a39;border:2px solid #fff;border-radius:50%;color:white;box-shadow:0 2px 8px #17273344;display:grid;place-items:center;font:700 12px Manrope,Arial,sans-serif;cursor:pointer}
+.stayroute-pin.selected{background:var(--orange);box-shadow:0 0 0 5px #e9624340}
+.stayroute-pin:hover{background:var(--orange)}
+.leaflet-popup-content{font-size:12px;line-height:1.6}
+.leaflet-popup-content p{margin:8px 0}
+.leaflet-popup-content a,.map-caption a{color:#b74329;text-decoration:underline}
+.map-tile-status{max-width:none;background:#fafbf8;padding:10px 16px;border-radius:0;border:1px solid #d8ded8;color:#46514b;font-size:11px;line-height:1.6;box-shadow:none}
+.map-tile-status[hidden]{display:none}
+.map-tile-status button{display:inline-block;border:0;background:none;padding:5px 8px;color:#b74329;font-weight:700;text-decoration:underline}
+.map-fit button{background:white;border:0;min-width:34px;min-height:34px;font-size:20px;color:#263a39}
+.map-unavailable{padding:30px;display:grid;place-items:center;line-height:1.7}
+.show-on-map{border:0;background:none;color:#b74329;text-decoration:underline;font-size:11px;font-weight:700;padding:7px 3px;white-space:nowrap}
+.card-foot{flex-wrap:wrap;gap:6px}
+.place-card.map-active{border-color:var(--orange);box-shadow:0 0 0 2px #e9624330}
+.map-selected p{line-height:1.6;font-size:12px}
+.map-selected a{display:inline-block;padding:6px 0}
+.leaflet-control-attribution{max-width:100%;line-height:1.5}
+@media(max-width:820px){.detail-panels{grid-template-columns:1fr}.map-panel{width:100%;min-width:0}.map-canvas{height:420px}}
+@media(max-width:560px){.map-canvas{height:380px}.map-heading{padding:14px 12px;gap:8px}.map-heading strong{font-size:11px}.map-heading span{font-size:9px}.map-tile-status{max-width:none}.leaflet-control-zoom a{width:36px;height:36px;line-height:36px}}

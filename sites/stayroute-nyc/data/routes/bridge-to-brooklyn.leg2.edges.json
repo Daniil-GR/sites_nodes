@@ -1,0 +1,1660 @@
+{
+  "units": "kilometers",
+  "shape": "qkislAl|~blC_@f^e@A{@MIlCEtCyACk@AC`Cm@rr@}@ny@[p^I`IO|LUPcIzFcJrG`IpL~@zAOrL\\a@lEvBv@tBd@f@fAb@n@p@j@l@nD|Df@`@h@Xb@LEd@Ah@aE|J[v@StEpCxAxBdAbNzGaHpX|BrBnAnAhBbB|AnAvA|@|FlBhExAnGxBdOnFlAb@tEbBjEpArCx@pBv@rB~@lBhAdBpA~AtAjB`BpBtAzAt@fCnAtChAnC`AfBd@`Cb@hBZjBVPBvAT|AZ`Cj@dBj@hBt@tAx@`BfAbBnAlAx@~AdAfBbA`Bv@~An@tAf@~A\\zAPxAAvBItAi@jAa@nBi@`BOrAHrAR~An@nBrAxAbBrAhC~@`Cv@~A~@rAr@x@nAdA~A`AjBx@vCl@pEx@bGK~H}CnFy@|D`@nCnBnCfEd@rCpAzCvApB|F|CjCtGdBnDpDfIzBrDdClA]vAsCnLQr@aBtGnBfBpAzOfAhNU`AyGtHsBfP{BhF",
+  "edges": [
+    {
+      "way_id": 1153282567,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 1,
+      "begin_shape_index": 0,
+      "road_class": "service_other",
+      "length": 0.042,
+      "source_percent_along": 0.47
+    },
+    {
+      "way_id": 1153282562,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 2,
+      "begin_shape_index": 1,
+      "road_class": "service_other",
+      "length": 0.002
+    },
+    {
+      "way_id": 1153282566,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 3,
+      "begin_shape_index": 2,
+      "road_class": "service_other",
+      "length": 0.003
+    },
+    {
+      "way_id": 5675465,
+      "bridge": false,
+      "tunnel": false,
+      "use": "road",
+      "traversability": "both",
+      "end_shape_index": 4,
+      "begin_shape_index": 3,
+      "road_class": "residential",
+      "length": 0.006,
+      "names": [
+        "Water Street"
+      ]
+    },
+    {
+      "way_id": 221694586,
+      "bridge": false,
+      "tunnel": false,
+      "use": "road",
+      "traversability": "both",
+      "end_shape_index": 5,
+      "begin_shape_index": 4,
+      "road_class": "residential",
+      "length": 0.006,
+      "names": [
+        "Water Street"
+      ]
+    },
+    {
+      "way_id": 1153282570,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 6,
+      "begin_shape_index": 5,
+      "road_class": "service_other",
+      "length": 0.005
+    },
+    {
+      "way_id": 1257062050,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 7,
+      "begin_shape_index": 6,
+      "road_class": "service_other",
+      "length": 0.002
+    },
+    {
+      "way_id": 888758913,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 8,
+      "begin_shape_index": 7,
+      "road_class": "service_other",
+      "length": 0.005
+    },
+    {
+      "way_id": 888758913,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 9,
+      "begin_shape_index": 8,
+      "road_class": "service_other",
+      "length": 0.07
+    },
+    {
+      "way_id": 888758913,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 10,
+      "begin_shape_index": 9,
+      "road_class": "service_other",
+      "length": 0.079
+    },
+    {
+      "way_id": 1257062037,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 11,
+      "begin_shape_index": 10,
+      "road_class": "service_other",
+      "length": 0.043
+    },
+    {
+      "way_id": 1425817841,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 12,
+      "begin_shape_index": 11,
+      "road_class": "service_other",
+      "length": 0.014
+    },
+    {
+      "way_id": 1256165054,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 13,
+      "begin_shape_index": 12,
+      "road_class": "service_other",
+      "length": 0.019
+    },
+    {
+      "way_id": 1257062009,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 14,
+      "begin_shape_index": 13,
+      "road_class": "service_other",
+      "length": 0.001
+    },
+    {
+      "way_id": 1197500821,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 15,
+      "begin_shape_index": 14,
+      "road_class": "service_other",
+      "length": 0.021
+    },
+    {
+      "way_id": 1197500821,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 16,
+      "begin_shape_index": 15,
+      "road_class": "service_other",
+      "length": 0.023
+    },
+    {
+      "way_id": 1198651619,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 17,
+      "begin_shape_index": 16,
+      "road_class": "service_other",
+      "length": 0.026
+    },
+    {
+      "way_id": 1257062006,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 18,
+      "begin_shape_index": 17,
+      "road_class": "service_other",
+      "length": 0.005
+    },
+    {
+      "way_id": 1197563917,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 19,
+      "begin_shape_index": 18,
+      "road_class": "service_other",
+      "length": 0.018
+    },
+    {
+      "way_id": 0,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 20,
+      "begin_shape_index": 19,
+      "road_class": "service_other",
+      "length": 0.002
+    },
+    {
+      "way_id": 0,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 21,
+      "begin_shape_index": 20,
+      "road_class": "service_other",
+      "length": 0.013
+    },
+    {
+      "way_id": 0,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 22,
+      "begin_shape_index": 21,
+      "road_class": "service_other",
+      "length": 0.006
+    },
+    {
+      "way_id": 0,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 23,
+      "begin_shape_index": 22,
+      "road_class": "service_other",
+      "length": 0.003
+    },
+    {
+      "way_id": 0,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 24,
+      "begin_shape_index": 23,
+      "road_class": "service_other",
+      "length": 0.004
+    },
+    {
+      "way_id": 1257080567,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 25,
+      "begin_shape_index": 24,
+      "road_class": "service_other",
+      "length": 0.003
+    },
+    {
+      "way_id": 1257080567,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 26,
+      "begin_shape_index": 25,
+      "road_class": "service_other",
+      "length": 0.003
+    },
+    {
+      "way_id": 1257080555,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 30,
+      "begin_shape_index": 26,
+      "road_class": "service_other",
+      "length": 0.02
+    },
+    {
+      "way_id": 888758847,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 32,
+      "begin_shape_index": 30,
+      "road_class": "service_other",
+      "length": 0.003
+    },
+    {
+      "way_id": 86101109,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 33,
+      "begin_shape_index": 32,
+      "road_class": "service_other",
+      "length": 0.019
+    },
+    {
+      "way_id": 888758854,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 34,
+      "begin_shape_index": 33,
+      "road_class": "service_other",
+      "length": 0.003
+    },
+    {
+      "way_id": 888758854,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 35,
+      "begin_shape_index": 34,
+      "road_class": "service_other",
+      "length": 0.009
+    },
+    {
+      "way_id": 308179975,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 36,
+      "begin_shape_index": 35,
+      "road_class": "service_other",
+      "length": 0.009
+    },
+    {
+      "way_id": 1257083249,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 37,
+      "begin_shape_index": 36,
+      "road_class": "service_other",
+      "length": 0.007
+    },
+    {
+      "way_id": 1257083249,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 38,
+      "begin_shape_index": 37,
+      "road_class": "service_other",
+      "length": 0.029
+    },
+    {
+      "way_id": 100606733,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 39,
+      "begin_shape_index": 38,
+      "road_class": "service_other",
+      "length": 0.038
+    },
+    {
+      "way_id": 888758844,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 44,
+      "begin_shape_index": 39,
+      "road_class": "service_other",
+      "length": 0.032
+    },
+    {
+      "way_id": 888758844,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 45,
+      "begin_shape_index": 44,
+      "road_class": "service_other",
+      "length": 0.015
+    },
+    {
+      "way_id": 225523572,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 46,
+      "begin_shape_index": 45,
+      "road_class": "service_other",
+      "length": 0.012,
+      "names": [
+        "Brooklyn Bridge Park Greenway"
+      ]
+    },
+    {
+      "way_id": 225523572,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 47,
+      "begin_shape_index": 46,
+      "road_class": "service_other",
+      "length": 0.016,
+      "names": [
+        "Brooklyn Bridge Park Greenway"
+      ]
+    },
+    {
+      "way_id": 225523572,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 48,
+      "begin_shape_index": 47,
+      "road_class": "service_other",
+      "length": 0.03,
+      "names": [
+        "Brooklyn Bridge Park Greenway"
+      ]
+    },
+    {
+      "way_id": 225523572,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 49,
+      "begin_shape_index": 48,
+      "road_class": "service_other",
+      "length": 0.005,
+      "names": [
+        "Brooklyn Bridge Park Greenway"
+      ]
+    },
+    {
+      "way_id": 460581659,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 52,
+      "begin_shape_index": 49,
+      "road_class": "service_other",
+      "length": 0.032,
+      "names": [
+        "Brooklyn Bridge Park Greenway"
+      ]
+    },
+    {
+      "way_id": 460581659,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 55,
+      "begin_shape_index": 52,
+      "road_class": "service_other",
+      "length": 0.021,
+      "names": [
+        "Brooklyn Bridge Park Greenway"
+      ]
+    },
+    {
+      "way_id": 460581659,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 58,
+      "begin_shape_index": 55,
+      "road_class": "service_other",
+      "length": 0.02,
+      "names": [
+        "Brooklyn Bridge Park Greenway"
+      ]
+    },
+    {
+      "way_id": 460581659,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 63,
+      "begin_shape_index": 58,
+      "road_class": "service_other",
+      "length": 0.039,
+      "names": [
+        "Brooklyn Bridge Park Greenway"
+      ]
+    },
+    {
+      "way_id": 460581659,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 66,
+      "begin_shape_index": 63,
+      "road_class": "service_other",
+      "length": 0.019,
+      "names": [
+        "Brooklyn Bridge Park Greenway"
+      ]
+    },
+    {
+      "way_id": 460581659,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 69,
+      "begin_shape_index": 66,
+      "road_class": "service_other",
+      "length": 0.012,
+      "names": [
+        "Brooklyn Bridge Park Greenway"
+      ]
+    },
+    {
+      "way_id": 460581659,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 87,
+      "begin_shape_index": 69,
+      "road_class": "service_other",
+      "length": 0.105,
+      "names": [
+        "Brooklyn Bridge Park Greenway"
+      ]
+    },
+    {
+      "way_id": 460581659,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 90,
+      "begin_shape_index": 87,
+      "road_class": "service_other",
+      "length": 0.016,
+      "names": [
+        "Brooklyn Bridge Park Greenway"
+      ]
+    },
+    {
+      "way_id": 460581659,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 100,
+      "begin_shape_index": 90,
+      "road_class": "service_other",
+      "length": 0.057,
+      "names": [
+        "Brooklyn Bridge Park Greenway"
+      ]
+    },
+    {
+      "way_id": 460581659,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 104,
+      "begin_shape_index": 100,
+      "road_class": "service_other",
+      "length": 0.027,
+      "names": [
+        "Brooklyn Bridge Park Greenway"
+      ]
+    },
+    {
+      "way_id": 1257995236,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 109,
+      "begin_shape_index": 104,
+      "road_class": "service_other",
+      "length": 0.07,
+      "names": [
+        "Brooklyn Bridge Park Greenway"
+      ]
+    },
+    {
+      "way_id": 1257995236,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 112,
+      "begin_shape_index": 109,
+      "road_class": "service_other",
+      "length": 0.027,
+      "names": [
+        "Brooklyn Bridge Park Greenway"
+      ]
+    },
+    {
+      "way_id": 1257995236,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 115,
+      "begin_shape_index": 112,
+      "road_class": "service_other",
+      "length": 0.031,
+      "names": [
+        "Brooklyn Bridge Park Greenway"
+      ]
+    },
+    {
+      "way_id": 328276064,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 119,
+      "begin_shape_index": 115,
+      "road_class": "service_other",
+      "length": 0.051
+    },
+    {
+      "way_id": 328281696,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 120,
+      "begin_shape_index": 119,
+      "road_class": "service_other",
+      "length": 0.008
+    },
+    {
+      "way_id": 845108807,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 121,
+      "begin_shape_index": 120,
+      "road_class": "service_other",
+      "length": 0.004
+    },
+    {
+      "way_id": 845108816,
+      "bridge": true,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 122,
+      "begin_shape_index": 121,
+      "road_class": "service_other",
+      "length": 0.02
+    },
+    {
+      "way_id": 661591172,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 123,
+      "begin_shape_index": 122,
+      "road_class": "service_other",
+      "length": 0.002
+    },
+    {
+      "way_id": 661591172,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 124,
+      "begin_shape_index": 123,
+      "road_class": "service_other",
+      "length": 0.013
+    },
+    {
+      "way_id": 817951253,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 126,
+      "begin_shape_index": 124,
+      "road_class": "service_other",
+      "length": 0.031
+    },
+    {
+      "way_id": 817951253,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 131,
+      "begin_shape_index": 126,
+      "road_class": "service_other",
+      "length": 0.08,
+      "target_percent_along": 0.884
+    }
+  ],
+  "matched_points": [
+    {
+      "lon": -73.990102,
+      "lat": 40.703177,
+      "type": "matched",
+      "distance_from_trace_point": 0.014027
+    },
+    {
+      "lon": -73.990603,
+      "lat": 40.703193,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.990602,
+      "lat": 40.703212,
+      "type": "interpolated",
+      "distance_from_trace_point": 2.548974
+    },
+    {
+      "lon": -73.990661,
+      "lat": 40.703246,
+      "type": "interpolated",
+      "distance_from_trace_point": 5.520156
+    },
+    {
+      "lon": -73.990713,
+      "lat": 40.703248,
+      "type": "interpolated",
+      "distance_from_trace_point": 5.30426
+    },
+    {
+      "lon": -73.990741,
+      "lat": 40.70325,
+      "type": "interpolated",
+      "distance_from_trace_point": 5.199352
+    },
+    {
+      "lon": -73.990738,
+      "lat": 40.703295,
+      "type": "interpolated",
+      "distance_from_trace_point": 7.854283
+    },
+    {
+      "lon": -73.990738,
+      "lat": 40.703295,
+      "type": "interpolated",
+      "distance_from_trace_point": 4.978338
+    },
+    {
+      "lon": -73.990738,
+      "lat": 40.703317,
+      "type": "interpolated",
+      "distance_from_trace_point": 2.433917
+    },
+    {
+      "lon": -73.990759,
+      "lat": 40.703317,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.480995
+    },
+    {
+      "lon": -73.990771,
+      "lat": 40.703318,
+      "type": "matched",
+      "distance_from_trace_point": 0.661156
+    },
+    {
+      "lon": -73.99084,
+      "lat": 40.70332,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.669375
+    },
+    {
+      "lon": -73.990866,
+      "lat": 40.70332,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.749369
+    },
+    {
+      "lon": -73.99094,
+      "lat": 40.703322,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.020466
+    },
+    {
+      "lon": -73.990995,
+      "lat": 40.703324,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.182727
+    },
+    {
+      "lon": -73.991068,
+      "lat": 40.703326,
+      "type": "matched",
+      "distance_from_trace_point": 0.928886
+    },
+    {
+      "lon": -73.99161,
+      "lat": 40.703341,
+      "type": "matched",
+      "distance_from_trace_point": 0.165604
+    },
+    {
+      "lon": -73.991652,
+      "lat": 40.703342,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.136778
+    },
+    {
+      "lon": -73.991736,
+      "lat": 40.703345,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.063727
+    },
+    {
+      "lon": -73.991793,
+      "lat": 40.703347,
+      "type": "interpolated",
+      "distance_from_trace_point": 1.388323
+    },
+    {
+      "lon": -73.991818,
+      "lat": 40.703348,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.474182
+    },
+    {
+      "lon": -73.99184,
+      "lat": 40.703349,
+      "type": "interpolated",
+      "distance_from_trace_point": 1.437299
+    },
+    {
+      "lon": -73.991898,
+      "lat": 40.70335,
+      "type": "matched",
+      "distance_from_trace_point": 0.104088
+    },
+    {
+      "lon": -73.991983,
+      "lat": 40.703353,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.140909
+    },
+    {
+      "lon": -73.991992,
+      "lat": 40.703354,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.337521
+    },
+    {
+      "lon": -73.992079,
+      "lat": 40.703356,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.010621
+    },
+    {
+      "lon": -73.992584,
+      "lat": 40.703373,
+      "type": "matched",
+      "distance_from_trace_point": 0.282249
+    },
+    {
+      "lon": -73.992752,
+      "lat": 40.703378,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.244397
+    },
+    {
+      "lon": -73.992799,
+      "lat": 40.703379,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.940613
+    },
+    {
+      "lon": -73.99284,
+      "lat": 40.70338,
+      "type": "matched",
+      "distance_from_trace_point": 0.182477
+    },
+    {
+      "lon": -73.993231,
+      "lat": 40.703392,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.993454,
+      "lat": 40.703399,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.993462,
+      "lat": 40.70341,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.993589,
+      "lat": 40.703573,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.993726,
+      "lat": 40.703751,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.993944,
+      "lat": 40.70359,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.99399,
+      "lat": 40.703558,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.994208,
+      "lat": 40.703565,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.99425,
+      "lat": 40.703448,
+      "type": "interpolated",
+      "distance_from_trace_point": 3.673783
+    },
+    {
+      "lon": -73.994262,
+      "lat": 40.703442,
+      "type": "interpolated",
+      "distance_from_trace_point": 2.05703
+    },
+    {
+      "lon": -73.99431,
+      "lat": 40.70342,
+      "type": "interpolated",
+      "distance_from_trace_point": 3.285778
+    },
+    {
+      "lon": -73.99431,
+      "lat": 40.70342,
+      "type": "interpolated",
+      "distance_from_trace_point": 1.846447
+    },
+    {
+      "lon": -73.994329,
+      "lat": 40.703401,
+      "type": "matched",
+      "distance_from_trace_point": 1.578276
+    },
+    {
+      "lon": -73.994348,
+      "lat": 40.703365,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.994373,
+      "lat": 40.70334,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.994396,
+      "lat": 40.703319,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.994491,
+      "lat": 40.70323,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.994508,
+      "lat": 40.70321,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.99452,
+      "lat": 40.70319,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.994528,
+      "lat": 40.703171,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.994528,
+      "lat": 40.703171,
+      "type": "interpolated",
+      "distance_from_trace_point": 1.626768
+    },
+    {
+      "lon": -73.994568,
+      "lat": 40.703176,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.994759,
+      "lat": 40.703272,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.994787,
+      "lat": 40.703286,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.994894,
+      "lat": 40.703297,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.994939,
+      "lat": 40.703224,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.994974,
+      "lat": 40.703162,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.995116,
+      "lat": 40.70292,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.995525,
+      "lat": 40.703066,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.995583,
+      "lat": 40.703002,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.995623,
+      "lat": 40.702963,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.995673,
+      "lat": 40.702909,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.995713,
+      "lat": 40.702863,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.995744,
+      "lat": 40.702819,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.995798,
+      "lat": 40.702692,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.995843,
+      "lat": 40.702591,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.995905,
+      "lat": 40.702455,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996025,
+      "lat": 40.702196,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996043,
+      "lat": 40.702157,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996093,
+      "lat": 40.70205,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996134,
+      "lat": 40.701948,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996163,
+      "lat": 40.701874,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996191,
+      "lat": 40.701817,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996223,
+      "lat": 40.701758,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996259,
+      "lat": 40.701704,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996301,
+      "lat": 40.701653,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996344,
+      "lat": 40.701605,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996393,
+      "lat": 40.70155,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996436,
+      "lat": 40.701494,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996462,
+      "lat": 40.701448,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996502,
+      "lat": 40.70138,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.99654,
+      "lat": 40.701305,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996573,
+      "lat": 40.701232,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996591,
+      "lat": 40.701181,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996609,
+      "lat": 40.701116,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996624,
+      "lat": 40.701063,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996636,
+      "lat": 40.701009,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996637,
+      "lat": 40.701,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996648,
+      "lat": 40.700956,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996663,
+      "lat": 40.700908,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996685,
+      "lat": 40.700844,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996707,
+      "lat": 40.700793,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996734,
+      "lat": 40.700739,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996763,
+      "lat": 40.700697,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996799,
+      "lat": 40.700648,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996839,
+      "lat": 40.700598,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996867,
+      "lat": 40.700559,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996903,
+      "lat": 40.700511,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996937,
+      "lat": 40.700458,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996965,
+      "lat": 40.70041,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996989,
+      "lat": 40.700362,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.997008,
+      "lat": 40.700319,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.997024,
+      "lat": 40.700271,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.997033,
+      "lat": 40.700224,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.997031,
+      "lat": 40.700179,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.997027,
+      "lat": 40.70012,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.997006,
+      "lat": 40.700077,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996989,
+      "lat": 40.700039,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996968,
+      "lat": 40.699982,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.99696,
+      "lat": 40.699934,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996965,
+      "lat": 40.699892,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996974,
+      "lat": 40.69985,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.996999,
+      "lat": 40.699802,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.997041,
+      "lat": 40.699746,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.997091,
+      "lat": 40.699701,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.99716,
+      "lat": 40.699659,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.997225,
+      "lat": 40.699627,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.997272,
+      "lat": 40.699599,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.997315,
+      "lat": 40.699566,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.997344,
+      "lat": 40.69954,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.997379,
+      "lat": 40.699501,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.997412,
+      "lat": 40.699453,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.997441,
+      "lat": 40.699399,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.997464,
+      "lat": 40.699323,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.997492,
+      "lat": 40.699217,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.997486,
+      "lat": 40.699087,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.997408,
+      "lat": 40.698927,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.997379,
+      "lat": 40.698808,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.997396,
+      "lat": 40.698713,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.997452,
+      "lat": 40.69864,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.997552,
+      "lat": 40.698569,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.997626,
+      "lat": 40.69855,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.997704,
+      "lat": 40.698509,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.997761,
+      "lat": 40.698465,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.99784,
+      "lat": 40.698338,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.997979,
+      "lat": 40.698268,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.998066,
+      "lat": 40.698217,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.99823,
+      "lat": 40.698128,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.99832,
+      "lat": 40.698066,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.998359,
+      "lat": 40.697998,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.998404,
+      "lat": 40.698014,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.99862,
+      "lat": 40.698088,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.998646,
+      "lat": 40.698097,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.998785,
+      "lat": 40.698146,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.998837,
+      "lat": 40.69809,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.999107,
+      "lat": 40.698049,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.999352,
+      "lat": 40.698012,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.999385,
+      "lat": 40.698024,
+      "type": "interpolated",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.99954,
+      "lat": 40.698164,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.999816,
+      "lat": 40.698223,
+      "type": "matched",
+      "distance_from_trace_point": 0.0
+    },
+    {
+      "lon": -73.999933,
+      "lat": 40.698284,
+      "type": "matched",
+      "distance_from_trace_point": 0.002483
+    }
+  ],
+  "alternate_paths": [],
+  "_audit": {
+    "method": "walk_or_snap",
+    "exactMatchFailure": "{\"error_code\":443,\"error\":\"Exact route match algorithm failed to find path: edge_walk algorithm failed to find exact route match.  Try using shape_match:'walk_or_snap' to fallback to map-matching algorithm\",\"status_code\":400,\"status\":\"Bad Request\"}"
+  }
+}

@@ -1,0 +1,1719 @@
+{
+  "units": "kilometers",
+  "edges": [
+    {
+      "way_id": 1153282567,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 1,
+      "begin_shape_index": 0,
+      "road_class": "service_other",
+      "length": 0.037,
+      "source_percent_along": 0.527
+    },
+    {
+      "way_id": 888758935,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 2,
+      "begin_shape_index": 1,
+      "road_class": "service_other",
+      "length": 0.064
+    },
+    {
+      "way_id": 1153282598,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 3,
+      "begin_shape_index": 2,
+      "road_class": "service_other",
+      "length": 0.002
+    },
+    {
+      "way_id": 1153282599,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 4,
+      "begin_shape_index": 3,
+      "road_class": "service_other",
+      "length": 0.005
+    },
+    {
+      "way_id": 1153282599,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 5,
+      "begin_shape_index": 4,
+      "road_class": "service_other",
+      "length": 0.004
+    },
+    {
+      "way_id": 1153282600,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 6,
+      "begin_shape_index": 5,
+      "road_class": "service_other",
+      "length": 0.003
+    },
+    {
+      "way_id": 1153282600,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 7,
+      "begin_shape_index": 6,
+      "road_class": "service_other",
+      "length": 0.075
+    },
+    {
+      "way_id": 1153282600,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 8,
+      "begin_shape_index": 7,
+      "road_class": "service_other",
+      "length": 0.002
+    },
+    {
+      "way_id": 1153282592,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 9,
+      "begin_shape_index": 8,
+      "road_class": "service_other",
+      "length": 0.007
+    },
+    {
+      "way_id": 1153282592,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 10,
+      "begin_shape_index": 9,
+      "road_class": "service_other",
+      "length": 0.009
+    },
+    {
+      "way_id": 1244917744,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 11,
+      "begin_shape_index": 10,
+      "road_class": "service_other",
+      "length": 0.018
+    },
+    {
+      "way_id": 1244917743,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 12,
+      "begin_shape_index": 11,
+      "road_class": "service_other",
+      "length": 0.041
+    },
+    {
+      "way_id": 1153282587,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 13,
+      "begin_shape_index": 12,
+      "road_class": "service_other",
+      "length": 0.002
+    },
+    {
+      "way_id": 1153282587,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 14,
+      "begin_shape_index": 13,
+      "road_class": "service_other",
+      "length": 0.001
+    },
+    {
+      "way_id": 1153282586,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 15,
+      "begin_shape_index": 14,
+      "road_class": "service_other",
+      "length": 0.006
+    },
+    {
+      "way_id": 1153282586,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 16,
+      "begin_shape_index": 15,
+      "road_class": "service_other",
+      "length": 0.004
+    },
+    {
+      "way_id": 1068073587,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 17,
+      "begin_shape_index": 16,
+      "road_class": "service_other",
+      "length": 0.001
+    },
+    {
+      "way_id": 1068073587,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 18,
+      "begin_shape_index": 17,
+      "road_class": "service_other",
+      "length": 0.067
+    },
+    {
+      "way_id": 1068073587,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 19,
+      "begin_shape_index": 18,
+      "road_class": "service_other",
+      "length": 0.002
+    },
+    {
+      "way_id": 1068073588,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 20,
+      "begin_shape_index": 19,
+      "road_class": "service_other",
+      "length": 0.005
+    },
+    {
+      "way_id": 1068073588,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 21,
+      "begin_shape_index": 20,
+      "road_class": "service_other",
+      "length": 0.005
+    },
+    {
+      "way_id": 1068073589,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 22,
+      "begin_shape_index": 21,
+      "road_class": "service_other",
+      "length": 0.003
+    },
+    {
+      "way_id": 1068073589,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 23,
+      "begin_shape_index": 22,
+      "road_class": "service_other",
+      "length": 0.152
+    },
+    {
+      "way_id": 1068073589,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 24,
+      "begin_shape_index": 23,
+      "road_class": "service_other",
+      "length": 0.003
+    },
+    {
+      "way_id": 1152787285,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 25,
+      "begin_shape_index": 24,
+      "road_class": "service_other",
+      "length": 0.006
+    },
+    {
+      "way_id": 1152787285,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 26,
+      "begin_shape_index": 25,
+      "road_class": "service_other",
+      "length": 0.005
+    },
+    {
+      "way_id": 1152787283,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 27,
+      "begin_shape_index": 26,
+      "road_class": "service_other",
+      "length": 0.003
+    },
+    {
+      "way_id": 1152787283,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 28,
+      "begin_shape_index": 27,
+      "road_class": "service_other",
+      "length": 0.143
+    },
+    {
+      "way_id": 1152787283,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 29,
+      "begin_shape_index": 28,
+      "road_class": "service_other",
+      "length": 0.002
+    },
+    {
+      "way_id": 1152787279,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 30,
+      "begin_shape_index": 29,
+      "road_class": "service_other",
+      "length": 0.006
+    },
+    {
+      "way_id": 1152787279,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 31,
+      "begin_shape_index": 30,
+      "road_class": "service_other",
+      "length": 0.004
+    },
+    {
+      "way_id": 1092341791,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 32,
+      "begin_shape_index": 31,
+      "road_class": "service_other",
+      "length": 0.002
+    },
+    {
+      "way_id": 1092341791,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 33,
+      "begin_shape_index": 32,
+      "road_class": "service_other",
+      "length": 0.127
+    },
+    {
+      "way_id": 1092341791,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 34,
+      "begin_shape_index": 33,
+      "road_class": "service_other",
+      "length": 0.002
+    },
+    {
+      "way_id": 1092341788,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 35,
+      "begin_shape_index": 34,
+      "road_class": "service_other",
+      "length": 0.005
+    },
+    {
+      "way_id": 1092341788,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 36,
+      "begin_shape_index": 35,
+      "road_class": "service_other",
+      "length": 0.004
+    },
+    {
+      "way_id": 1092341789,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 37,
+      "begin_shape_index": 36,
+      "road_class": "service_other",
+      "length": 0.001
+    },
+    {
+      "way_id": 1092341782,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 38,
+      "begin_shape_index": 37,
+      "road_class": "service_other",
+      "length": 0.014
+    },
+    {
+      "way_id": 1092341782,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 41,
+      "begin_shape_index": 38,
+      "road_class": "service_other",
+      "length": 0.104
+    },
+    {
+      "way_id": 1092341782,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 43,
+      "begin_shape_index": 41,
+      "road_class": "service_other",
+      "length": 0.138
+    },
+    {
+      "way_id": 1092341782,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 44,
+      "begin_shape_index": 43,
+      "road_class": "service_other",
+      "length": 0.044
+    },
+    {
+      "way_id": 1092341782,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 45,
+      "begin_shape_index": 44,
+      "road_class": "service_other",
+      "length": 0.003
+    },
+    {
+      "way_id": 1092341774,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 46,
+      "begin_shape_index": 45,
+      "road_class": "service_other",
+      "length": 0.005
+    },
+    {
+      "way_id": 1092341774,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 47,
+      "begin_shape_index": 46,
+      "road_class": "service_other",
+      "length": 0.005
+    },
+    {
+      "way_id": 1092341772,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 48,
+      "begin_shape_index": 47,
+      "road_class": "service_other",
+      "length": 0.002
+    },
+    {
+      "way_id": 1092341778,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 50,
+      "begin_shape_index": 48,
+      "road_class": "service_other",
+      "length": 0.005
+    },
+    {
+      "way_id": 1092341778,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 52,
+      "begin_shape_index": 50,
+      "road_class": "service_other",
+      "length": 0.035
+    },
+    {
+      "way_id": 1092341778,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 53,
+      "begin_shape_index": 52,
+      "road_class": "service_other",
+      "length": 0.003
+    },
+    {
+      "way_id": 1151988636,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 54,
+      "begin_shape_index": 53,
+      "road_class": "service_other",
+      "length": 0.004
+    },
+    {
+      "way_id": 1151988636,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 55,
+      "begin_shape_index": 54,
+      "road_class": "service_other",
+      "length": 0.005
+    },
+    {
+      "way_id": 1151988635,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 56,
+      "begin_shape_index": 55,
+      "road_class": "service_other",
+      "length": 0.014
+    },
+    {
+      "way_id": 1151988635,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 57,
+      "begin_shape_index": 56,
+      "road_class": "service_other",
+      "length": 0.03
+    },
+    {
+      "way_id": 1151988637,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 63,
+      "begin_shape_index": 57,
+      "road_class": "service_other",
+      "length": 0.073
+    },
+    {
+      "way_id": 1091744915,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 64,
+      "begin_shape_index": 63,
+      "road_class": "service_other",
+      "length": 0.01
+    },
+    {
+      "way_id": 1151575896,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 68,
+      "begin_shape_index": 64,
+      "road_class": "service_other",
+      "length": 0.072
+    },
+    {
+      "way_id": 1151575896,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 72,
+      "begin_shape_index": 68,
+      "road_class": "service_other",
+      "length": 0.029
+    },
+    {
+      "way_id": 1151575896,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 73,
+      "begin_shape_index": 72,
+      "road_class": "service_other",
+      "length": 0.003
+    },
+    {
+      "way_id": 1151575897,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 74,
+      "begin_shape_index": 73,
+      "road_class": "service_other",
+      "length": 0.001
+    },
+    {
+      "way_id": 1527630660,
+      "bridge": false,
+      "tunnel": false,
+      "use": "cycleway",
+      "traversability": "both",
+      "end_shape_index": 75,
+      "begin_shape_index": 74,
+      "road_class": "service_other",
+      "length": 0.004,
+      "names": [
+        "Flushing Avenue"
+      ]
+    },
+    {
+      "way_id": 488161824,
+      "bridge": false,
+      "tunnel": false,
+      "use": "cycleway",
+      "traversability": "both",
+      "end_shape_index": 83,
+      "begin_shape_index": 75,
+      "road_class": "service_other",
+      "length": 0.168,
+      "names": [
+        "Flushing Avenue"
+      ]
+    },
+    {
+      "way_id": 488161824,
+      "bridge": false,
+      "tunnel": false,
+      "use": "cycleway",
+      "traversability": "both",
+      "end_shape_index": 84,
+      "begin_shape_index": 83,
+      "road_class": "service_other",
+      "length": 0.016,
+      "names": [
+        "Flushing Avenue"
+      ]
+    },
+    {
+      "way_id": 488161824,
+      "bridge": false,
+      "tunnel": false,
+      "use": "cycleway",
+      "traversability": "both",
+      "end_shape_index": 87,
+      "begin_shape_index": 84,
+      "road_class": "service_other",
+      "length": 0.07,
+      "names": [
+        "Flushing Avenue"
+      ]
+    },
+    {
+      "way_id": 488161824,
+      "bridge": false,
+      "tunnel": false,
+      "use": "cycleway",
+      "traversability": "both",
+      "end_shape_index": 88,
+      "begin_shape_index": 87,
+      "road_class": "service_other",
+      "length": 0.013,
+      "names": [
+        "Flushing Avenue"
+      ]
+    },
+    {
+      "way_id": 488161824,
+      "bridge": false,
+      "tunnel": false,
+      "use": "cycleway",
+      "traversability": "both",
+      "end_shape_index": 90,
+      "begin_shape_index": 88,
+      "road_class": "service_other",
+      "length": 0.065,
+      "names": [
+        "Flushing Avenue"
+      ]
+    },
+    {
+      "way_id": 488161824,
+      "bridge": false,
+      "tunnel": false,
+      "use": "cycleway",
+      "traversability": "both",
+      "end_shape_index": 91,
+      "begin_shape_index": 90,
+      "road_class": "service_other",
+      "length": 0.01,
+      "names": [
+        "Flushing Avenue"
+      ]
+    },
+    {
+      "way_id": 488161824,
+      "bridge": false,
+      "tunnel": false,
+      "use": "cycleway",
+      "traversability": "both",
+      "end_shape_index": 93,
+      "begin_shape_index": 91,
+      "road_class": "service_other",
+      "length": 0.01,
+      "names": [
+        "Flushing Avenue"
+      ]
+    },
+    {
+      "way_id": 488161824,
+      "bridge": false,
+      "tunnel": false,
+      "use": "cycleway",
+      "traversability": "both",
+      "end_shape_index": 98,
+      "begin_shape_index": 93,
+      "road_class": "service_other",
+      "length": 0.067,
+      "names": [
+        "Flushing Avenue"
+      ]
+    },
+    {
+      "way_id": 488161824,
+      "bridge": false,
+      "tunnel": false,
+      "use": "cycleway",
+      "traversability": "both",
+      "end_shape_index": 99,
+      "begin_shape_index": 98,
+      "road_class": "service_other",
+      "length": 0.012,
+      "names": [
+        "Flushing Avenue"
+      ]
+    },
+    {
+      "way_id": 488161824,
+      "bridge": false,
+      "tunnel": false,
+      "use": "cycleway",
+      "traversability": "both",
+      "end_shape_index": 100,
+      "begin_shape_index": 99,
+      "road_class": "service_other",
+      "length": 0.006,
+      "names": [
+        "Flushing Avenue"
+      ]
+    },
+    {
+      "way_id": 488161824,
+      "bridge": false,
+      "tunnel": false,
+      "use": "cycleway",
+      "traversability": "both",
+      "end_shape_index": 101,
+      "begin_shape_index": 100,
+      "road_class": "service_other",
+      "length": 0.148,
+      "names": [
+        "Flushing Avenue"
+      ]
+    },
+    {
+      "way_id": 488161824,
+      "bridge": false,
+      "tunnel": false,
+      "use": "cycleway",
+      "traversability": "both",
+      "end_shape_index": 102,
+      "begin_shape_index": 101,
+      "road_class": "service_other",
+      "length": 0.01,
+      "names": [
+        "Flushing Avenue"
+      ]
+    },
+    {
+      "way_id": 488161824,
+      "bridge": false,
+      "tunnel": false,
+      "use": "cycleway",
+      "traversability": "both",
+      "end_shape_index": 103,
+      "begin_shape_index": 102,
+      "road_class": "service_other",
+      "length": 0.012,
+      "names": [
+        "Flushing Avenue"
+      ]
+    },
+    {
+      "way_id": 488161824,
+      "bridge": false,
+      "tunnel": false,
+      "use": "cycleway",
+      "traversability": "both",
+      "end_shape_index": 106,
+      "begin_shape_index": 103,
+      "road_class": "service_other",
+      "length": 0.061,
+      "names": [
+        "Flushing Avenue"
+      ]
+    },
+    {
+      "way_id": 488161824,
+      "bridge": false,
+      "tunnel": false,
+      "use": "cycleway",
+      "traversability": "both",
+      "end_shape_index": 109,
+      "begin_shape_index": 106,
+      "road_class": "service_other",
+      "length": 0.015,
+      "names": [
+        "Flushing Avenue"
+      ]
+    },
+    {
+      "way_id": 488161824,
+      "bridge": false,
+      "tunnel": false,
+      "use": "cycleway",
+      "traversability": "both",
+      "end_shape_index": 111,
+      "begin_shape_index": 109,
+      "road_class": "service_other",
+      "length": 0.012,
+      "names": [
+        "Flushing Avenue"
+      ]
+    },
+    {
+      "way_id": 488161824,
+      "bridge": false,
+      "tunnel": false,
+      "use": "cycleway",
+      "traversability": "both",
+      "end_shape_index": 112,
+      "begin_shape_index": 111,
+      "road_class": "service_other",
+      "length": 0.065,
+      "names": [
+        "Flushing Avenue"
+      ]
+    },
+    {
+      "way_id": 488161824,
+      "bridge": false,
+      "tunnel": false,
+      "use": "cycleway",
+      "traversability": "both",
+      "end_shape_index": 113,
+      "begin_shape_index": 112,
+      "road_class": "service_other",
+      "length": 0.01,
+      "names": [
+        "Flushing Avenue"
+      ]
+    },
+    {
+      "way_id": 488161824,
+      "bridge": false,
+      "tunnel": false,
+      "use": "cycleway",
+      "traversability": "both",
+      "end_shape_index": 114,
+      "begin_shape_index": 113,
+      "road_class": "service_other",
+      "length": 0.008,
+      "names": [
+        "Flushing Avenue"
+      ]
+    },
+    {
+      "way_id": 488161824,
+      "bridge": false,
+      "tunnel": false,
+      "use": "cycleway",
+      "traversability": "both",
+      "end_shape_index": 115,
+      "begin_shape_index": 114,
+      "road_class": "service_other",
+      "length": 0.078,
+      "names": [
+        "Flushing Avenue"
+      ]
+    },
+    {
+      "way_id": 488161824,
+      "bridge": false,
+      "tunnel": false,
+      "use": "cycleway",
+      "traversability": "both",
+      "end_shape_index": 120,
+      "begin_shape_index": 115,
+      "road_class": "service_other",
+      "length": 0.072,
+      "names": [
+        "Flushing Avenue"
+      ]
+    },
+    {
+      "way_id": 488161824,
+      "bridge": false,
+      "tunnel": false,
+      "use": "cycleway",
+      "traversability": "both",
+      "end_shape_index": 121,
+      "begin_shape_index": 120,
+      "road_class": "service_other",
+      "length": 0.011,
+      "names": [
+        "Flushing Avenue"
+      ]
+    },
+    {
+      "way_id": 488161824,
+      "bridge": false,
+      "tunnel": false,
+      "use": "cycleway",
+      "traversability": "both",
+      "end_shape_index": 122,
+      "begin_shape_index": 121,
+      "road_class": "service_other",
+      "length": 0.009,
+      "names": [
+        "Flushing Avenue"
+      ]
+    },
+    {
+      "way_id": 1072315763,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 123,
+      "begin_shape_index": 122,
+      "road_class": "service_other",
+      "length": 0.001
+    },
+    {
+      "way_id": 1105379518,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 124,
+      "begin_shape_index": 123,
+      "road_class": "service_other",
+      "length": 0.001
+    },
+    {
+      "way_id": 1072315764,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 126,
+      "begin_shape_index": 124,
+      "road_class": "service_other",
+      "length": 0.4
+    },
+    {
+      "way_id": 1081804716,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 127,
+      "begin_shape_index": 126,
+      "road_class": "service_other",
+      "length": 0.068
+    },
+    {
+      "way_id": 1081804715,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 128,
+      "begin_shape_index": 127,
+      "road_class": "service_other",
+      "length": 0.009
+    },
+    {
+      "way_id": 1081804714,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 129,
+      "begin_shape_index": 128,
+      "road_class": "service_other",
+      "length": 0.036
+    },
+    {
+      "way_id": 1081804714,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 130,
+      "begin_shape_index": 129,
+      "road_class": "service_other",
+      "length": 0.028
+    },
+    {
+      "way_id": 1081804714,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 132,
+      "begin_shape_index": 130,
+      "road_class": "service_other",
+      "length": 0.047
+    },
+    {
+      "way_id": 1081804714,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 133,
+      "begin_shape_index": 132,
+      "road_class": "service_other",
+      "length": 0.062
+    },
+    {
+      "way_id": 1081804714,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 135,
+      "begin_shape_index": 133,
+      "road_class": "service_other",
+      "length": 0.045
+    },
+    {
+      "way_id": 1081804714,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 136,
+      "begin_shape_index": 135,
+      "road_class": "service_other",
+      "length": 0.024
+    },
+    {
+      "way_id": 1081804714,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 137,
+      "begin_shape_index": 136,
+      "road_class": "service_other",
+      "length": 0.014
+    },
+    {
+      "way_id": 1081804714,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 138,
+      "begin_shape_index": 137,
+      "road_class": "service_other",
+      "length": 0.018
+    },
+    {
+      "way_id": 1081804714,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 139,
+      "begin_shape_index": 138,
+      "road_class": "service_other",
+      "length": 0.021
+    },
+    {
+      "way_id": 1081804714,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 140,
+      "begin_shape_index": 139,
+      "road_class": "service_other",
+      "length": 0.038
+    },
+    {
+      "way_id": 1081804714,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 141,
+      "begin_shape_index": 140,
+      "road_class": "service_other",
+      "length": 0.021
+    },
+    {
+      "way_id": 1081804714,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 142,
+      "begin_shape_index": 141,
+      "road_class": "service_other",
+      "length": 0.226
+    },
+    {
+      "way_id": 1081804714,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 143,
+      "begin_shape_index": 142,
+      "road_class": "service_other",
+      "length": 0.007
+    },
+    {
+      "way_id": 1081804714,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 144,
+      "begin_shape_index": 143,
+      "road_class": "service_other",
+      "length": 0.002
+    },
+    {
+      "way_id": 1064549627,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 145,
+      "begin_shape_index": 144,
+      "road_class": "service_other",
+      "length": 0.004
+    },
+    {
+      "way_id": 1064549627,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 146,
+      "begin_shape_index": 145,
+      "road_class": "service_other",
+      "length": 0.009
+    },
+    {
+      "way_id": 1064549627,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 147,
+      "begin_shape_index": 146,
+      "road_class": "service_other",
+      "length": 0.003
+    },
+    {
+      "way_id": 1064549626,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 148,
+      "begin_shape_index": 147,
+      "road_class": "service_other",
+      "length": 0.003
+    },
+    {
+      "way_id": 1064549626,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 149,
+      "begin_shape_index": 148,
+      "road_class": "service_other",
+      "length": 0.004
+    },
+    {
+      "way_id": 1064549605,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 150,
+      "begin_shape_index": 149,
+      "road_class": "service_other",
+      "length": 0.128
+    },
+    {
+      "way_id": 1064549605,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 151,
+      "begin_shape_index": 150,
+      "road_class": "service_other",
+      "length": 0.007
+    },
+    {
+      "way_id": 1064549610,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 152,
+      "begin_shape_index": 151,
+      "road_class": "service_other",
+      "length": 0.01
+    },
+    {
+      "way_id": 1064549610,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 153,
+      "begin_shape_index": 152,
+      "road_class": "service_other",
+      "length": 0.01
+    },
+    {
+      "way_id": 1093129048,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 154,
+      "begin_shape_index": 153,
+      "road_class": "service_other",
+      "length": 0.003
+    },
+    {
+      "way_id": 1093129048,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 156,
+      "begin_shape_index": 154,
+      "road_class": "service_other",
+      "length": 0.202
+    },
+    {
+      "way_id": 1093129048,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 159,
+      "begin_shape_index": 156,
+      "road_class": "service_other",
+      "length": 0.097
+    },
+    {
+      "way_id": 1064049717,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 160,
+      "begin_shape_index": 159,
+      "road_class": "service_other",
+      "length": 0.005
+    },
+    {
+      "way_id": 1064049717,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 161,
+      "begin_shape_index": 160,
+      "road_class": "service_other",
+      "length": 0.002
+    },
+    {
+      "way_id": 1064049716,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 162,
+      "begin_shape_index": 161,
+      "road_class": "service_other",
+      "length": 0.005
+    },
+    {
+      "way_id": 1064049716,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 163,
+      "begin_shape_index": 162,
+      "road_class": "service_other",
+      "length": 0.007
+    },
+    {
+      "way_id": 1064049715,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 164,
+      "begin_shape_index": 163,
+      "road_class": "service_other",
+      "length": 0.002
+    },
+    {
+      "way_id": 1065545285,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 165,
+      "begin_shape_index": 164,
+      "road_class": "service_other",
+      "length": 0.082
+    },
+    {
+      "way_id": 1065545285,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 166,
+      "begin_shape_index": 165,
+      "road_class": "service_other",
+      "length": 0.007
+    },
+    {
+      "way_id": 1065545285,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 167,
+      "begin_shape_index": 166,
+      "road_class": "service_other",
+      "length": 0.01
+    },
+    {
+      "way_id": 1065545285,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 168,
+      "begin_shape_index": 167,
+      "road_class": "service_other",
+      "length": 0.088
+    },
+    {
+      "way_id": 180337996,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 171,
+      "begin_shape_index": 168,
+      "road_class": "service_other",
+      "length": 0.091
+    },
+    {
+      "way_id": 180337996,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 179,
+      "begin_shape_index": 171,
+      "road_class": "service_other",
+      "length": 0.083
+    },
+    {
+      "way_id": 180337996,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 188,
+      "begin_shape_index": 179,
+      "road_class": "service_other",
+      "length": 0.092
+    },
+    {
+      "way_id": 988038373,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 192,
+      "begin_shape_index": 188,
+      "road_class": "service_other",
+      "length": 0.032
+    },
+    {
+      "way_id": 988038374,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 198,
+      "begin_shape_index": 192,
+      "road_class": "service_other",
+      "length": 0.064
+    },
+    {
+      "way_id": 1065545246,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 199,
+      "begin_shape_index": 198,
+      "road_class": "service_other",
+      "length": 0.058
+    },
+    {
+      "way_id": 1090749543,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 200,
+      "begin_shape_index": 199,
+      "road_class": "service_other",
+      "length": 0.003
+    },
+    {
+      "way_id": 1090749542,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 201,
+      "begin_shape_index": 200,
+      "road_class": "service_other",
+      "length": 0.004
+    },
+    {
+      "way_id": 1090749542,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 202,
+      "begin_shape_index": 201,
+      "road_class": "service_other",
+      "length": 0.006
+    },
+    {
+      "way_id": 1090749541,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 203,
+      "begin_shape_index": 202,
+      "road_class": "service_other",
+      "length": 0.019
+    },
+    {
+      "way_id": 1090749541,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 204,
+      "begin_shape_index": 203,
+      "road_class": "service_other",
+      "length": 0.112
+    },
+    {
+      "way_id": 1090749556,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 205,
+      "begin_shape_index": 204,
+      "road_class": "service_other",
+      "length": 0.002
+    },
+    {
+      "way_id": 1090749555,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 206,
+      "begin_shape_index": 205,
+      "road_class": "service_other",
+      "length": 0.004
+    },
+    {
+      "way_id": 1090749555,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 207,
+      "begin_shape_index": 206,
+      "road_class": "service_other",
+      "length": 0.006
+    },
+    {
+      "way_id": 1090749554,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 208,
+      "begin_shape_index": 207,
+      "road_class": "service_other",
+      "length": 0.002
+    },
+    {
+      "way_id": 1090749551,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 209,
+      "begin_shape_index": 208,
+      "road_class": "service_other",
+      "length": 0.064
+    },
+    {
+      "way_id": 1090749625,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 211,
+      "begin_shape_index": 209,
+      "road_class": "service_other",
+      "length": 0.039
+    },
+    {
+      "way_id": 1537870563,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 212,
+      "begin_shape_index": 211,
+      "road_class": "service_other",
+      "length": 0.004
+    },
+    {
+      "way_id": 1537870563,
+      "bridge": false,
+      "tunnel": false,
+      "use": "pedestrian_crossing",
+      "traversability": "both",
+      "end_shape_index": 213,
+      "begin_shape_index": 212,
+      "road_class": "service_other",
+      "length": 0.005
+    },
+    {
+      "way_id": 1097002388,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 214,
+      "begin_shape_index": 213,
+      "road_class": "service_other",
+      "length": 0.012
+    },
+    {
+      "way_id": 1214148123,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 217,
+      "begin_shape_index": 214,
+      "road_class": "service_other",
+      "length": 0.042
+    },
+    {
+      "way_id": 1214148124,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 218,
+      "begin_shape_index": 217,
+      "road_class": "service_other",
+      "length": 0.01
+    },
+    {
+      "way_id": 1016721729,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 220,
+      "begin_shape_index": 218,
+      "road_class": "service_other",
+      "length": 0.03
+    },
+    {
+      "way_id": 1016721729,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 221,
+      "begin_shape_index": 220,
+      "road_class": "service_other",
+      "length": 0.015
+    },
+    {
+      "way_id": 1016721729,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 222,
+      "begin_shape_index": 221,
+      "road_class": "service_other",
+      "length": 0.042
+    },
+    {
+      "way_id": 1016721734,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 223,
+      "begin_shape_index": 222,
+      "road_class": "service_other",
+      "length": 0.018
+    },
+    {
+      "way_id": 1016727655,
+      "bridge": false,
+      "tunnel": false,
+      "use": "footway",
+      "traversability": "both",
+      "end_shape_index": 224,
+      "begin_shape_index": 223,
+      "road_class": "service_other",
+      "length": 0.012,
+      "target_percent_along": 0.7
+    }
+  ],
+  "alternate_paths": []
+}

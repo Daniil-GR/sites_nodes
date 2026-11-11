@@ -1,0 +1,105 @@
+[
+  {
+    "route": "midtown-icons",
+    "distanceKm": 1.438,
+    "walkingMinutes": 19,
+    "visitMinutes": 85,
+    "geometryLengthMeters": 1434,
+    "maxSegmentMeters": 133,
+    "endpointOffsetsMeters": [
+      0.0,
+      0.0,
+      0.0,
+      29.2
+    ],
+    "result": "Пройдено"
+  },
+  {
+    "route": "west-side",
+    "distanceKm": 1.957,
+    "walkingMinutes": 26,
+    "visitMinutes": 100,
+    "geometryLengthMeters": 1957,
+    "maxSegmentMeters": 92,
+    "endpointOffsetsMeters": [
+      11.6,
+      4.1,
+      4.1,
+      5.3
+    ],
+    "result": "Пройдено"
+  },
+  {
+    "route": "bridge-to-brooklyn",
+    "distanceKm": 3.457,
+    "walkingMinutes": 44,
+    "visitMinutes": 85,
+    "geometryLengthMeters": 3458,
+    "maxSegmentMeters": 277,
+    "endpointOffsetsMeters": [
+      29.6,
+      30.2,
+      30.2,
+      0.5
+    ],
+    "result": "Пройдено"
+  },
+  {
+    "route": "park-museum",
+    "distanceKm": 1.884,
+    "walkingMinutes": 25,
+    "visitMinutes": 210,
+    "geometryLengthMeters": 1885,
+    "maxSegmentMeters": 54,
+    "endpointOffsetsMeters": [
+      0.5,
+      35.7,
+      35.7,
+      21.7
+    ],
+    "result": "Пройдено"
+  },
+  {
+    "route": "queens-view",
+    "distanceKm": 1.032,
+    "walkingMinutes": 14,
+    "visitMinutes": 120,
+    "geometryLengthMeters": 1035,
+    "maxSegmentMeters": 187,
+    "endpointOffsetsMeters": [
+      3.1,
+      10.3
+    ],
+    "result": "Пройдено"
+  },
+  {
+    "route": "village-lines",
+    "distanceKm": 3.018,
+    "walkingMinutes": 39,
+    "visitMinutes": 100,
+    "geometryLengthMeters": 3012,
+    "maxSegmentMeters": 286,
+    "endpointOffsetsMeters": [
+      2.7,
+      10.9,
+      10.9,
+      11.6
+    ],
+    "result": "Пройдено"
+  },
+  {
+    "route": "brooklyn-river",
+    "distanceKm": 6.373,
+    "walkingMinutes": 81,
+    "visitMinutes": 100,
+    "geometryLengthMeters": 6369,
+    "maxSegmentMeters": 226,
+    "endpointOffsetsMeters": [
+      0.5,
+      30.2,
+      30.2,
+      3.7
+    ],
+    "result": "Пройдено"
+  }
+]
